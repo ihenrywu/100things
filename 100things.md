@@ -3,7 +3,7 @@
 <center><big><b> Unofficial UBC Sauder Freshman Tips</b></big></center>
 
 <p><center>Henry Wu</center></p>
-<font color=grey><center><i>Version: v1.0, Updated: 2023-08-10，Link of Latest Version: XXX</i></center></font>
+<font color=grey><center><i>Current Version: v1.0, Updated: 2023-08-10, Link of Latest Version: https://github.com/ihenrywu/100things</i></center></font>
 
 ## 
 
