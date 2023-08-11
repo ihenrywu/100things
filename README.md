@@ -4,11 +4,13 @@
 
 <p><center>Henry Wu</center></p>
 
-><font color=grey><center>Current Version: v1.0 | Updated: 2023-08-10 | Link of Latest Version: https://github.com/ihenrywu/100things</center></font>
+><font color=grey><center>Current Version: v1.1 | Updated: 2023-08-10 | Link of Latest Version: https://github.com/ihenrywu/100things</center></font>
 
 ## 
 
 If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. 
+
+![](exhibit/contentxmind.png)
 
 If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me. Let's create this list of 100 things together.
 
@@ -71,11 +73,11 @@ If you're not in Canada when you read this, you still have a chance to double-ch
 
 Business students, spoiler alert: there are a few occasions during your studies where the dress code is formal. So, if you have a suit, pack it.
  
-### • Bed sheets
+### • Bed sheet
 
 As ridiculous as it sounds, you may not believe me when I say it, but when you rent an apartment in Vancouver, the odds are high that the room has no furniture. Yes, your rent does not include a bed, couch, table and chairs in the room. This means that for your first night in Vancouver, you will either stay in a hotel, an Airbnb, or sleep on the floor. 
  
-Considering that hotel prices always peak at the beginning of the school year, it's better to sleep on the floor if you don't particularly mind. A bed sheet will make you feel not that bad. The rooms usually have carpeting, so put on sheets and sleep for a few days until your bed from IKEA arrives.
+Considering that hotel prices always peak at the beginning of the school year, it's better to sleep on the floor if you don't particularly mind. A bed sheet will make you feel not that bad. The rooms usually have carpeting, so put on a sheet and sleep for a few days until your bed from IKEA arrives.
  
 ### • Prohibited goods
  
@@ -319,7 +321,7 @@ Sometimes, a certificate of enrollment is required to process some documents. Yo
  
 >**Link:** [Student Service Centre Website](https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework)
  
-### • Swimming Pool
+### • Swimming
 
 As one of the benefits for UBC students, we can use the school's swimming pool for free. The UBC Aquatic Centre is a water center built to world-class standards. You only need to make a reservation one day in advance.
 
@@ -343,7 +345,7 @@ As with the swimming pool, we can use the ice-skating rink for free. However, if
 >
 >**Link:** [Reservation address](https://recreation.ubc.ca/)
  
-### • Golf Course
+### • Golf
 
 The closest golf course to UBC is right next, and although it's called the University Golf Club, it's not related to UBC in any way, so you can't use it for free. Having said that, it is really not expensive. For example, it costs only 5 dollars for 30 balls of golf practice, and you can get a discount on top-ups with your student ID.
  
@@ -515,7 +517,7 @@ https://sportfacilities.ubc.ca/dmc/
   - [](#-2)
   - [► Baggage](#-baggage)
     - [• Suits](#-suits)
-    - [• Bed sheets](#-bed-sheets)
+    - [• Bed sheet](#-bed-sheet)
     - [• Prohibited goods](#-prohibited-goods)
   - [](#-3)
   - [► Phone SIM Cards](#-phone-sim-cards)
@@ -554,9 +556,9 @@ https://sportfacilities.ubc.ca/dmc/
     - [• Meeting Room Reservation](#-meeting-room-reservation)
     - [• Printing/Scanning](#-printingscanning)
     - [• Certificate of enrollment](#-certificate-of-enrollment)
-    - [• Swimming Pool](#-swimming-pool)
+    - [• Swimming](#-swimming)
     - [• Ice skating:](#-ice-skating)
-    - [• Golf Course](#-golf-course)
+    - [• Golf](#-golf)
   - [](#-10)
   - [► Restaurants](#-restaurants)
     - [• Pizza](#-pizza)
