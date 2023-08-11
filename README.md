@@ -1,14 +1,16 @@
 # <center> 100 Things I Wish I'd Known in My First 10 Days in Vancouver
+
 <center><big><b> Unofficial UBC Sauder Newcomer Tips</b></big></center>
 
 <p><center>Henry Wu</center></p>
+
 <font color=grey><center><i>Current Version: v1.0 | Updated: 2023-08-10 | Link of Latest Version: https://github.com/ihenrywu/100things</i></center></font>
 
 ## 
 
 If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to Sauder marked my first time in Vancouver too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. 
 
-If any introduction is not detailed enough, or if any topic you think is important not included, feel free to touch me. Let's make 100 things together.
+If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me. Let's create this list of 100 things together.
 
 > **Disclaimer：** This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions. If you spot any errors or has any question, drop me a mail at [ihenrywu.ca#gmail.com](mailto:ihenrywu.ca#gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/ihenrywu/).
 
@@ -36,7 +38,7 @@ You need to pay attention to the various possible pronunciations of your name in
 After you get your Study Permit, make sure that your name and the length of time you are allowed to stay are correct, and then you can go pick up your luggage. Considering that getting the Study Permit takes about half an hour, many people will choose to get their luggage first and put it in a corner somewhere before waiting for the Study Permit. Don’t walk through the gate of the exit without getting your Study Permit since it is a one-way gate.
 
 >**Link**: [Documents you need when you arrive in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html)
-
+>
 >**PDF**: [Information for international students](https://www.cbsa-asfc.gc.ca/publications/pub/international-students-etudiants-etrangers-eng.pdf)
 
 ### • Work Permit
@@ -50,11 +52,12 @@ Most of us need a visa to enter Canada, so I'm sure you already know about the I
 After settling, apply for MSP (Medical Services Plan) as soon as possible. MSP is an insurance policy which costs $75 per month and will prevent you from going bankrupt due to illness. You need to wait 3 months for this card to take effect. The school will have iMed plan for each student as a transition insurance during this 3 month period. So you must apply for MSP in time to avoid gaps.
 
 >![](exhibit/msp.png "MSP")
+>
 >[MSP card (source)](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card)
 
 Believe me, paying for your own hospitalization must be one of the last things you want to do in Canada. A while ago, I had some tooth fillings in Vancouver. The good news is that MSP covered some of the costs, but even so, the moment I saw the bill, how can I put it, I don't think MBA tuition is that expensive anymore.
 
->**Link:** [MSP application website](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
+>**Link:** [Apply for MSP](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
  
 ## ► Baggage
 
@@ -81,7 +84,7 @@ Please read the list of "Restricted and prohibited goods" published by the Canad
 If necessary, activate your homeland SIM card for international roaming, or at least to ensure that you can receive text messages. This is so that you can, for one, receive a verification code when you sign up for an account before you buy a Canada SIM card, and in case some accounts in your home country require verification by text message.
 
 >![](exhibit/providers.png)
-
+>
 >[Canada wireless providers (source)](https://www.cbc.ca/news/business/marketplace-high-cell-phone-bills-1.6711205)
  
 While many SIM card options exist in Canada, the main carriers are Rogers, Bell, and TELUS. Affordable choices for international students include Fido, Koodo, and Lucky, which around $30-40 per month. The cheapest phone card is Public Mobile, which costs $10-15 a month but has the least airtime and traffic. Take some time to do your homework in advance, pick the best one for you, and then go to the nearest store to buy a SIM card when you arrive in Canada.
@@ -111,7 +114,7 @@ In terms of price, the cheapest is Temu, which has just started operating in Can
 
 Vancouver has many one-dollar stores, which can be understood as the offline version of Temu, almost the cheapest place to buy things offline. One on campus is named Dollar 'N' Plus, near McDonald's.
  
-Location: 5721 Dalhousie Rd, Vancouver, BC V6T 2H9
+>Location: 5721 Dalhousie Rd, Vancouver, BC V6T 2H9
  
 ### • Second-hand
 Buying second-hand is a good option if you want to get good quality stuff for less money, and it's also more environmentally friendly. "Don't lose it, reuse it". Facebook's Market is the mainstream online trading platform for second-hand, but be aware of scams. Remember “no goods no pay”.
@@ -119,7 +122,7 @@ Buying second-hand is a good option if you want to get good quality stuff for le
 In addition, you can join some Facebook groups, such as "UBC Buy and Sell Items," "Buy Nothing UBC Campus, Vancouver BC". The latter is a group where kindhearted UBCer gives away free second-hand, so as long as you're quick with your hands, you can save much money.
 
 >Link: [Facebook Group: UBC Buy and Sell Items](https://m.facebook.com/groups/ubcbuyandsellitems/?ref=share&mibextid=K8Wfd2)
-
+>
 >Link: [Facebook Group: Buy Nothing UBC Campus](https://m.facebook.com/groups/bnpubc/?ref=share&mibextid=K8Wfd2)
  
 ## ► Getting Around
@@ -139,7 +142,7 @@ At UBC, there's a bus loop serving as the terminus for several buses. Attention!
 Actually, this isn't truly "free" - it's part of your tuition. So, don’t waste it. By the way, you need to manually update your card on the UPASS website at the end of each month so that it will work the following month. On the first of every month, you can see some passengers on the bus, embarrassed to find out that the swipe card failed. To be safe, you can set an alarm each month.
 
 >**Link:** [Compass Card website](https://www.compasscard.ca/)
-
+>
 >**Link:** [UPASS website](https://upassbc.translink.ca/)
  
 One more thing, in Canada, at least in Vancouver, there is a special culture in public transportation: when you get off the bus, you need to say "thank you" loudly to the driver. I'm not kidding; it's true. Welcome to friendly Canada. But you don't have to say "thank you" to the driver on SkyTrain - after all, it's driverless.
@@ -147,6 +150,15 @@ One more thing, in Canada, at least in Vancouver, there is a special culture in 
 ### • Uber
 
 Uber is a popular choice in Vancouver, with Lyft and Kabu also available. These apps are super convenient, but can be pricey.
+
+### • Taxi
+
+Truth be told, I've never taken a taxi in Vancouver since I have Uber on my phone. However, under certain circumstances, opting for a taxi might be a good choice. For instance, when you first arrive at Vancouver Airport and don't have a local phone number.
+
+Below is a price map from Vancouver Airport to your destination. UBC is located in the top right corner of the map.
+
+![](exhibit/taix.jpeg)
+
  
 ### • Rent a car
 
@@ -159,7 +171,7 @@ There are also other choices, like modo, zerocar. To rent a car you need to have
  
 **Link:** [EVO website](https://evo.ca/)
  
-##	▶ Identifications
+## ► Identifications
 
 ### • Student card
 
@@ -181,6 +193,7 @@ This is just as important as the student ID card. Many student-related benefits 
 If you don't plan on getting a local driver's license, this is the only photo ID you can get from the local government while you're studying, and you can lock up your passport once you have your BCID. Basically, all the places in BC that require government-issued identification, you show your BCID, and you're good to go.
 
 >![](exhibit/bcid.jpg)
+>
 >[BCID](https://www.redsealnotary.com/Publications/2013-07-08-Help-no-ID-in-British-Columbia.php)
 
 The place to apply is ICBC (Insurance Corporation of British Columbia), the office which also issues driver's license. Note that it's not the bank CIBC. 
@@ -190,7 +203,7 @@ The place to apply is ICBC (Insurance Corporation of British Columbia), the offi
  
 The application process is very simple, with your passport and Study Permit, go to the nearest office of ICBC and apply for it. The card will be sent to your mailbox in about 10 working days. Walk-in are accepted but usually required for a specific time slot, so it's best to make an appointment online in advance.
  
-**Link:** [Apply for BCID](https://www.icbc.com/driver-licensing/getting-licensed/Pages/Apply-for-a-BCID.aspx)
+>**Link:** [Apply for BCID](https://www.icbc.com/driver-licensing/getting-licensed/Pages/Apply-for-a-BCID.aspx)
  
 ### • Driver's License
 
@@ -225,10 +238,15 @@ Most of our classes are held in the Henry Angus Bldg. On the north side of the f
  
 ### • UBC Bookstore
 
-Located on the east side of Sauder, about 1 minute away. There are a variety of UBC souvenirs inside, such as mugs, books, etc. The most sought-after items are the co-branded culture shirts between UBC and Lululemon.
+Located on the east side of Sauder, about 1 minute away. There are a variety of UBC souvenirs inside, such as mugs, books, etc. 
 
 >![](exhibit/bookstore.jpg)
 >[UBC Bookstore](https://www.archdaily.com/775763/ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers/56278cd6e58ece127a000225-ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers-photo?next_project=no)
+
+The most sought-after items sold at bookstore are the co-branded culture shirts between UBC and Lululemon.
+
+>![](exhibit/lululemon.jpeg)
+>[UBC & Lululemon](https://gothunderbirds.ca/news/2023/2/2/general-ubc-lululemon-announce-student-scholarship-research-and-apparel-partnership.aspx)
  
 ### • Libraries
 
@@ -243,10 +261,13 @@ Irving K. Barber Learning Centre: 1961 E Mall, Vancouver, BC V6T 1Z1
 ### • Rose Garden
 
 It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Canadian flag. This is the place where you can see both the ocean and the snow-capped mountains. It's small, but exquisite.
+
+>![](exhibit/rose%20garden.png)
+>[Rose Garden](https://decaseconds.com/2012/08/09/ubc-rose-garden/)
  
 ### • Wrech beach
 
-Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach. You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
+Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the offical name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
  
 ## ► School Life
 
@@ -261,7 +282,7 @@ If you could only bookmark one site in your browser, I'd recommend reserving tha
 >* View and apply for job postings, volunteer, and skills development opportunities specifically targeted to UBC Sauder students.
 >* View employer profiles - our Business Development team has direct connections to companies listed on COOL.
 >* Access resources like CaseCoach, LinkedIn Masterclass, Firsthand, and more!
-
+>
 > **Link**: [Access COOL](https://sauder-ubc-csm.symplicity.com/)
 
 
@@ -289,7 +310,7 @@ Sometimes, a certificate of enrollment is required to process some documents. Yo
 As one of the benefits for UBC students, we can use the school's swimming pool for free. The UBC Aquatic Centre is a water center built to world-class standards. You only need to make a reservation one day in advance.
  
 >Location: 6080 Student Union Blvd, Vancouver, BC V6T 1Z1
-
+>
 >**Link:** [Reservation address](https://recreation.ubc.ca/)
  
  
@@ -313,13 +334,13 @@ No one restaurant suits everyone's tastes so that I won't make any recommendatio
 
 Pizza is always the least bad option, and there are a number of pizzerias on campus. The closest one to Sauder, and the cheapest, is Uncle Fatih's Pizza, which is $4 for a slice and $8 for a combo.
  
-Location: 6045 University Blvd, Vancouver, BC V6T 0C5
+>Location: 6045 University Blvd, Vancouver, BC V6T 0C5
  
 ### • Chinese restaurants
 
 Food Court is highly recommended; there are several restaurants inside, almost the most cost-effective Chinese food on campus. It's about $12 for a set meal. It's located in the basement next to McDonald's, you need to go downstairs, and it's not very easy to find.
  
-Location: 5726 University Blvd, Vancouver, BC V6T 1K6
+>Location: 5726 University Blvd, Vancouver, BC V6T 1K6
  
 ### • Tim Hortons
 
@@ -335,7 +356,7 @@ Healthcare in Canada is a difficult topic to talk about. On the one hand, becaus
 
 The good news is that if it's a life-threatening medical issue, you'll be the first to receive treatment if you call 911 or go to the emergency room, which is located on campus at UBC Hospital. The bad news is that most of the time, while we feel our illness is urgent, doctors usually don't feel that way. What often happens is that you go to the emergency room and wait for hours to see a doctor. On the bright side, this means your situation isn't all that worth worrying about.
  
-UBC Hosptial: Koerner Pavilion, 2211 Wesbrook Mall UBC Hospital, Vancouver, BC V6T 2B5
+>**UBC Hosptial**: Koerner Pavilion, 2211 Wesbrook Mall UBC Hospital, Vancouver, BC V6T 2B5
  
 ### • Pharmacies
 
@@ -368,7 +389,50 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 
 ## ► Author Info
 
-This article is originally written by Henry Wu, translated by DeepL, polished by ChatGPT, proofread by Grammarly, and finally edited by Henry Wu.
+>This article is originally written by Henry Wu, translated by DeepL, polished by ChatGPT, proofread by Grammarly, and finally edited by Henry Wu.
+
+## ► Tips for Chinese Students
+
+温哥华是北美华人生活舒适度最高的城市之一，除了贵和不好找工作外，几乎没有其他缺点。如果你是刚到温哥华的中国学生，这里有一些tips。
+
+### • 银行卡
+
+温哥华有两家中国银行，一家在Richmond，一家在Downtown。可以办理BOC Canada的卡，从国内的BOC转账不需要手续费，推荐办理。此外，其定期储蓄的利息比较高。
+
+### • 电话卡
+
+中国电信在加拿大也有分店，它们家的套餐性价比不是最高的，每月月租45刀左右，如果与国内通话不是刚需，建议选择性价比更高的本地电话卡。但如果有与国内打电话的刚需，它们家几乎是唯一的选择。
+
+与国内通话包括两种情况：你拨打国内电话，或者让国内的人通过打电话找到你。这张卡还是双卡合一，也就是一张SIM卡上既有加拿大本地的号码，也有一个中国号码，这样你不用准备两个手机。你甚至可以在国内的时候就办理这张卡，这样在加拿大一落地就可以使用。使用推荐码(MMIXV)注册，会有10刀优惠。
+
+有传闻说，加拿大将会不允许中国电信继续运营。不过在加拿大携号码转套餐很容易，如果真到了那一天，再转其他运营商即可。
+
+### • 大统华
+
+大统华YYDS，让你有一秒回国的感觉。超市里应有尽有，从老干妈到辣条，只有你想不到没有他办不到。强烈推荐你找时间去一趟，高低能缓解下思乡之愁。大统华在温哥华有不少店面，Richmond的这家比较大。更好的是，这家步行范围内就有一家ICBC和Canada Service Center，也就是说办BCID和SIN卡可以一起搞定。此外，大统华还提供外卖服务。
+
+### • 亚洲超市
+
+如果觉得大统华太远的话，在学校里就有两家亚洲超市。都在麦当劳附近。
+
+>**H-Mart Express**：University Blvd #103, Vancouver, BC V6T 1K6
+>
+>**Chit Chat Enterprise**：5767 Dalhousie Rd, Vancouver, BC V6T 2H9
+
+### • 列治文
+
+温哥华没有唐人街，因为区区一条街哪够中国人住。温哥华华人密度最大的区域在Richmond，几乎可以不用说英文也能享受各种便利的服务。中餐厅很多，路上还能偶尔邂逅一些明星。
+
+### • 海底捞
+
+距离UBC不远就有一家海底捞，凭借学生证可以享受优惠。几乎能享受到与国内同品质的服务，而且价格也并没有贵很多。
+
+>**地址**：3204 W Broadway, Vancouver, BC V6K 2H4
+
+### • 支付宝
+
+温哥华有很多超市和餐厅是接受支付宝付款的。他乡遇故“支”。在Richmond的Costco旁的丰泰超市甚至还有家支付宝旗舰店。此外，缴纳学费不受到每年5万刀的外汇管制限制，也能通过支付宝缴纳。
+
 
 ## ► Contents
 
@@ -393,8 +457,9 @@ This article is originally written by Henry Wu, translated by DeepL, polished by
     - [• Public Transportation](#-public-transportation)
     - [• UPASS](#-upass)
     - [• Uber](#-uber)
+    - [• Taxi](#-taxi)
     - [• Rent a car](#-rent-a-car)
-  - [▶ Identifications](#-identifications)
+  - [► Identifications](#-identifications)
     - [• Student card](#-student-card)
     - [• Student Email](#-student-email)
     - [• BCID](#-bcid)
@@ -424,7 +489,6 @@ This article is originally written by Henry Wu, translated by DeepL, polished by
     - [• Vaccines](#-vaccines)
   - [► Benefits](#-benefits)
   - [► Author Info](#-author-info)
-  - [► Contents](#-contents)
   - [► Tips for Chinese Students](#-tips-for-chinese-students)
     - [• 银行卡](#-银行卡)
     - [• 电话卡](#-电话卡)
@@ -433,49 +497,4 @@ This article is originally written by Henry Wu, translated by DeepL, polished by
     - [• 列治文](#-列治文)
     - [• 海底捞](#-海底捞)
     - [• 支付宝](#-支付宝)
-
-
-
-
-
-## ► Tips for Chinese Students
-
-温哥华是北美华人生活舒适度最高的城市之一，除了贵和不好找工作外，几乎没有其他缺点。如果你是刚到温哥华的中国学生，这里有一些tips。
-
-### • 银行卡
-
-温哥华有两家中国银行，一家在Richmond，一家在Downtown。可以办理BOC Canada的卡，从国内的BOC转账不需要手续费，推荐办理。此外，其定期储蓄的利息比较高。
-
-### • 电话卡
-
-中国电信在加拿大也有分店，它们家的套餐性价比不是最高的，每月月租45刀左右，如果与国内通话不是刚需，建议选择性价比更高的本地电话卡。但如果有与国内打电话的刚需，它们家几乎是唯一的选择。
-
-与国内通话包括两种情况：你拨打国内电话，或者让国内的人通过打电话找到你。这张卡还是双卡合一，也就是一张SIM卡上既有加拿大本地的号码，也有一个中国号码，这样你不用准备两个手机。你甚至可以在国内的时候就办理这张卡，这样在加拿大一落地就可以使用。使用推荐码(MMIXV)注册，会有10刀优惠。
-
-有传闻说，加拿大将会不允许中国电信继续运营。不过在加拿大携号码转套餐很容易，如果真到了那一天，再转其他运营商即可。
-
-### • 大统华
-
-大统华YYDS，让你有一秒回国的感觉。超市里应有尽有，从老干妈到辣条，只有你想不到没有他办不到。强烈推荐你找时间去一趟，高低能缓解下思乡之愁。大统华在温哥华有不少店面，Richmond的这家比较大。更好的是，这家步行范围内就有一家ICBC和Canada Service Center，也就是说办BCID和SIN卡可以一起搞定。此外，大统华还提供外卖服务。
-
-### • 亚洲超市
-
-如果觉得大统华太远的话，在学校里就有两家亚洲超市。都在麦当劳附近。
-
-**H-Mart Express**：University Blvd #103, Vancouver, BC V6T 1K6
-
-**Chit Chat Enterprise**：5767 Dalhousie Rd, Vancouver, BC V6T 2H9
-
-### • 列治文
-
-温哥华没有唐人街，因为区区一条街哪够中国人住。温哥华华人密度最大的区域在Richmond，几乎可以不用说英文也能享受各种便利的服务。中餐厅很多，路上还能偶尔邂逅一些明星。
-
-### • 海底捞
-
-距离UBC不远就有一家海底捞，凭借学生证可以享受优惠。几乎能享受到与国内同品质的服务，而且价格也并没有贵很多。
-
-**地址**：3204 W Broadway, Vancouver, BC V6K 2H4
-
-### • 支付宝
-
-温哥华有很多超市和餐厅是接受支付宝付款的。他乡遇故“支”。在Richmond的Costco旁的丰泰超市甚至还有家支付宝旗舰店。此外，缴纳学费不受到每年5万刀的外汇管制限制，也能通过支付宝缴纳。
+  - [► Contents](#-contents)
