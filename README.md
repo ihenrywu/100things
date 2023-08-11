@@ -32,6 +32,7 @@ When you get your student visa, you are eligible for Study Permit. What you need
 The place you get the Study Permit is the Immigration office adjacent to the **No.23 baggage claim carousel** in the airport after you pass customs. There are several rows of chairs in that hall, so go in and sit down in order, and a staff member will come by to collect the documents. After that, wait for the staff to call your name at the counter. 
 
 >![](exhibit/Immigration%20office%20at%20YVR.jpg)
+>
 >[Immigration office at Vancouver airport (source)](https://offtracktravel.ca/arriving-vancouver-working-holiday-iec/)
 
 You need to pay attention to the various possible pronunciations of your name in English. Don't expect too much from the staff's foreign language pronunciation. It often happens that some people are called several times before realizing that they are being called.
@@ -463,7 +464,7 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 
 ### • 支付宝
 
-温哥华有很多超市和餐厅是接受支付宝付款的。他乡遇故“支”。在Richmond的Costco旁的丰泰超市甚至还有家支付宝旗舰店。此外，缴纳学费不受到每年5万刀的外汇管制限制，也能通过支付宝缴纳。
+温哥华有很多超市和餐厅是接受支付宝付款的。他乡遇故“支”。在Richmond的Costco旁的丰泰超市甚至还有家支付宝旗舰店。此外，缴纳学费不受到每年5万刀的外汇限制，也能通过支付宝缴纳。
 
 ##
 ## ► Image Source
