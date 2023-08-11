@@ -12,7 +12,7 @@ If any introduction is not detailed enough, or if any topic you think is importa
 
 > **Disclaimer：** This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions. If you spot any errors or has any question, drop me a mail at [ihenrywu.ca#gmail.com](mailto:ihenrywu.ca#gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/ihenrywu/).
 
-## ▶ First Things First
+## ► First Things First
 
 ### * Study Permit
 
@@ -35,9 +35,9 @@ You need to pay attention to the various possible pronunciations of your name in
 
 After you get your Study Permit, make sure that your name and the length of time you are allowed to stay are correct, and then you can go pick up your luggage. Considering that getting the Study Permit takes about half an hour, many people will choose to get their luggage first and put it in a corner somewhere before waiting for the Study Permit. Don’t walk through the gate of the exit without getting your Study Permit since it is a one-way gate.
 
-Link: [Documents you need when you arrive in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html)
+>**Link**: [Documents you need when you arrive in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html)
 
-PDF: [Information for international students](https://www.cbsa-asfc.gc.ca/publications/pub/international-students-etudiants-etrangers-eng.pdf)
+>**PDF**: [Information for international students](https://www.cbsa-asfc.gc.ca/publications/pub/international-students-etudiants-etrangers-eng.pdf)
 
 ### * Work Permit
 
@@ -54,7 +54,7 @@ After settling, apply for MSP (Medical Services Plan) as soon as possible. MSP i
 
 Believe me, paying for your own hospitalization must be one of the last things you want to do in Canada. A while ago, I had some tooth fillings in Vancouver. The good news is that MSP covered some of the costs, but even so, the moment I saw the bill, how can I put it, I don't think MBA tuition is that expensive anymore.
 
-**Link:** [MSP application website](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
+>**Link:** [MSP application website](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
  
 ## ▶ Baggage
 
@@ -74,13 +74,14 @@ Considering that hotel prices always peak at the beginning of the school year, i
  
 Please read the list of "Restricted and prohibited goods" published by the Canadian Border Services Agency carefully. Generally speaking, fruits and meats are prohibited. Just because Canada is a friendly country doesn't mean fines aren't here. Don't let a ticket be the first impression you leave when you enter Canada.
  
-**Link:** [Restricted and prohibited goods](https://www.cbsa-asfc.gc.ca/travel-voyage/rpg-mrp-eng.html)
+>**Link:** [Restricted and prohibited goods](https://www.cbsa-asfc.gc.ca/travel-voyage/rpg-mrp-eng.html)
  
 ## ▶ Phone Cards
 
 If necessary, activate your homeland SIM card for international roaming, or at least to ensure that you can receive text messages. This is so that you can, for one, receive a verification code when you sign up for an account before you buy a Canada SIM card, and in case some accounts in your home country require verification by text message.
 
 >![](exhibit/providers.png)
+
 >[Canada wireless providers (source)](https://www.cbc.ca/news/business/marketplace-high-cell-phone-bills-1.6711205)
  
 While many SIM card options exist in Canada, the main carriers are Rogers, Bell, and TELUS. Affordable choices for international students include Fido, Koodo, and Lucky, which around $30-40 per month. The cheapest phone card is Public Mobile, which costs $10-15 a month but has the least airtime and traffic. Take some time to do your homework in advance, pick the best one for you, and then go to the nearest store to buy a SIM card when you arrive in Canada.
@@ -94,7 +95,7 @@ Top banks include RBC, CIBC, TD, BMO, and Scotiabank. They often have promotions
  
 All of these banks have branches on campus. But note that most banks do not accept walk-in to open an account, so you must make an appointment on the official website. You can do it now, based on your arrival date, so you can be the first to get a card once you've settled in. If you already have a Visa or Mastercard card from your home country, you can swipe it in most cases. In addition, for Chinese students, Alipay is accepted in many places in Vancouver.
  
-## Shopping
+## ▶ Shopping
 
 ### * Supermarkets
 
@@ -373,7 +374,7 @@ This article is originally written by Henry Wu, translated by DeepL, polished by
 
 - [ 100 Things I Wish I'd Known in My First 10 Days in Vancouver](#-100-things-i-wish-id-known-in-my-first-10-days-in-vancouver)
   - [](#)
-  - [▶ First Things First](#-first-things-first)
+  - [► First Things First](#-first-things-first)
     - [\* Study Permit](#-study-permit)
     - [\* Work Permit](#-work-permit)
     - [\* MSP](#-msp)
@@ -383,7 +384,7 @@ This article is originally written by Henry Wu, translated by DeepL, polished by
     - [\* Prohibited goods](#-prohibited-goods)
   - [▶ Phone Cards](#-phone-cards)
   - [▶ Bank Cards](#-bank-cards)
-  - [Shopping](#shopping)
+  - [▶ Shopping](#-shopping)
     - [\* Supermarkets](#-supermarkets)
     - [\* Online shopping](#-online-shopping)
     - [\* One-Dollar store](#-one-dollar-store)
