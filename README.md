@@ -14,6 +14,7 @@ If any introduction is not detailed enough or if you believe an important topic 
 
 > **Disclaimer：** This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions. If you spot any errors or has any question, drop me a mail at [ihenrywu.ca#gmail.com](mailto:ihenrywu.ca#gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/ihenrywu/).
 
+##
 ## ► First Things First
 
 ### • Study Permit
@@ -438,6 +439,7 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 
 - [ 100 Things I Wish I'd Known in My First 10 Days in Vancouver](#-100-things-i-wish-id-known-in-my-first-10-days-in-vancouver)
   - [](#)
+  - [](#-1)
   - [► First Things First](#-first-things-first)
     - [• Study Permit](#-study-permit)
     - [• Work Permit](#-work-permit)
