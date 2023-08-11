@@ -206,9 +206,6 @@ If you don't plan on getting a local driver's license, this is the only photo ID
 >[BCID](https://www.redsealnotary.com/Publications/2013-07-08-Help-no-ID-in-British-Columbia.php)
 
 The place to apply is ICBC (Insurance Corporation of British Columbia), the office which also issues driver's license. Note that it's not the bank CIBC. 
-
->![](exhibit/icbc.jpg)
->[ICBC (source)](https://www.surreynowleader.com/news/icbc-moves-to-appointment-based-system-for-all-in-office-driver-services/)
  
 The application process is very simple, with your passport and Study Permit, go to the nearest office of ICBC and apply for it. The card will be sent to your mailbox in about 10 working days. Walk-in are accepted but usually required for a specific time slot, so it's best to make an appointment online in advance.
  
