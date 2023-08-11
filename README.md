@@ -8,7 +8,7 @@
 
 ## 
 
-If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to Sauder marked my first time in Vancouver too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. 
+If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. 
 
 If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me. Let's create this list of 100 things together.
 
@@ -29,10 +29,10 @@ The Study Permit is almost the most important document during your studies in Ca
 
 When you get your student visa, you are eligible for Study Permit. What you need to do is to pick up the A4 size paper when you arrive in Canada, for most people, the Vancouver airport. The document you need to prepare is "letter of introduction" you received from IRCC when they issued your visa.
 
-The place you get the Study Permit is the Immigration office adjacent to the No.23 baggage claim carousel in the airport after you pass customs. There are several rows of chairs in that hall, so go in and sit down in order, and a staff member will come by to collect the documents. After that, wait for the staff to call your name at the counter. 
+The place you get the Study Permit is the Immigration office adjacent to the **No.23 baggage claim carousel** in the airport after you pass customs. There are several rows of chairs in that hall, so go in and sit down in order, and a staff member will come by to collect the documents. After that, wait for the staff to call your name at the counter. 
 
 >![](exhibit/Immigration%20office%20at%20YVR.jpg)
->[Immigration office at YVR](https://offtracktravel.ca/arriving-vancouver-working-holiday-iec/)
+>[Immigration office at Vancouver airport (source)](https://offtracktravel.ca/arriving-vancouver-working-holiday-iec/)
 
 You need to pay attention to the various possible pronunciations of your name in English. Don't expect too much from the staff's foreign language pronunciation. It often happens that some people are called several times before realizing that they are being called.
 
@@ -142,7 +142,7 @@ Public Transportation: Vancouver, like many cities, offers an eco-friendly and b
 At UBC, there's a bus loop serving as the terminus for several buses. Attention! As part of the UBC student benefits, the UPASS allows you to ride the bus/SkyTrain for FREE during your study period. To get it, purchase a Compass card and link it to your student account. You can buy one at the UBC bookstore or Shoppers on campus. 
 
 >![](exhibit/compasscard.png)
->[Compass Card](https://www.cbc.ca/news/canada/british-columbia/preloaded-compass-cards-faredealers-1.3412249)
+>[Compass Card (source)](https://www.cbc.ca/news/canada/british-columbia/preloaded-compass-cards-faredealers-1.3412249)
  
 Actually, this isn't truly "free" - it's part of your tuition. So, don’t waste it. By the way, you need to manually update your card on the UPASS website at the end of each month so that it will work the following month. On the first of every month, you can see some passengers on the bus, embarrassed to find out that the swipe card failed. To be safe, you can set an alarm each month.
 
@@ -161,7 +161,7 @@ Uber is a popular choice in Vancouver, with Lyft and Kabu also available. These 
 Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with a refer code: XDO7VX05
 
 >![](exhibit/evo.png)
->[EVO](https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/)
+>[EVO car (source)](https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/)
 
 There are also other choices, like modo, zerocar. To rent a car you need to have a local driver's license, or your home country's license plus an approved translation.
  
@@ -183,7 +183,8 @@ Below is a price map from Vancouver Airport to your destination. UBC is located 
 You don't have to wait until you arrive in Canada to apply. Submit the necessary photo online, and in a few days, pick it up at select places on campus, like the UBC bookstore, when you arrive at UBC. With the student ID, you can enter Sauder's meeting rooms, check out books from the library, buy goods from the vending machines, and so on.
 
 >![](exhibit/studentcard.png)
->[Student Card](https://ubccard.ubc.ca/about-the-ubccard)
+>
+>[UBC Student Card](https://ubccard.ubc.ca/about-the-ubccard)
 >
 >**Link:** [Apply for UBC student card](https://ubccard.ubc.ca/)
  
@@ -204,7 +205,7 @@ If you don't plan on getting a local driver's license, this is the only photo ID
 The place to apply is ICBC (Insurance Corporation of British Columbia), the office which also issues driver's license. Note that it's not the bank CIBC. 
 
 >![](exhibit/icbc.jpg)
->[ICBC](https://www.surreynowleader.com/news/icbc-moves-to-appointment-based-system-for-all-in-office-driver-services/)
+>[ICBC (source)](https://www.surreynowleader.com/news/icbc-moves-to-appointment-based-system-for-all-in-office-driver-services/)
  
 The application process is very simple, with your passport and Study Permit, go to the nearest office of ICBC and apply for it. The card will be sent to your mailbox in about 10 working days. Walk-in are accepted but usually required for a specific time slot, so it's best to make an appointment online in advance.
  
@@ -237,7 +238,7 @@ UBC, often heralded as North America's most beautiful campus, offers breathtakin
 You could almost call it being located right in the center of the campus. The building is right next to the most famous UBC landmark, Martha Piper Plaza(the fountain). Just beside it stands UBC's oldest structure, which now houses the School of Chemistry. 
 
 >![](exhibit/sauder.jpg)
->[Sauder Business School](https://www.sauder.ubc.ca/news/school-news/ubc-ranked-1-canada-business-administration-arwu-fifth-consecutive-year)
+>[Sauder Business School (source)](https://www.sauder.ubc.ca/news/school-news/ubc-ranked-1-canada-business-administration-arwu-fifth-consecutive-year)
  
 Most of our classes are held in the Henry Angus Bldg. On the north side of the first floor, there is the meeting rooms area, you need to swipe your student ID card to enter, and you also need to make a reservation in advance. The north side of the second floor is the library. The lounge for MBAN is on the 3rd floor, and for MBA is the 4th floor.
  
@@ -246,7 +247,7 @@ Most of our classes are held in the Henry Angus Bldg. On the north side of the f
 Located on the east side of Sauder, about 1 minute away. There are a variety of UBC souvenirs inside, such as mugs, books, etc. 
 
 >![](exhibit/bookstore.jpg)
->[UBC Bookstore](https://www.archdaily.com/775763/ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers/56278cd6e58ece127a000225-ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers-photo?next_project=no)
+>[UBC Bookstore (source)](https://www.archdaily.com/775763/ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers/56278cd6e58ece127a000225-ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers-photo?next_project=no)
 
 The most sought-after items sold at bookstore are the co-branded culture shirts between UBC and Lululemon.
 
@@ -258,7 +259,7 @@ The most sought-after items sold at bookstore are the co-branded culture shirts 
 There are two libraries near Sauder, both are good place for self-study. Some movies are shoot here.
 
 ![](exhibit/ikblc.jpg)
-[Irving K. Barber Learning Centre](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/)
+[Irving K. Barber Learning Centre (source)](https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/)
  
 Walter C. Koerner Library: 1958 Main Mall, Vancouver, BC V6T 1Z2
 Irving K. Barber Learning Centre: 1961 E Mall, Vancouver, BC V6T 1Z1
@@ -268,14 +269,14 @@ Irving K. Barber Learning Centre: 1961 E Mall, Vancouver, BC V6T 1Z1
 It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Canadian flag. This is the place where you can see both the ocean and the snow-capped mountains. It's small, but exquisite.
 
 >![](exhibit/rose%20garden.png)
->[Rose Garden](https://decaseconds.com/2012/08/09/ubc-rose-garden/)
+>[Rose Garden (source)](https://decaseconds.com/2012/08/09/ubc-rose-garden/)
  
 ### • Wreck Beach
 
 Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the offical name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
 
 >![](exhibit/wreckbeach.jpg)
->[Wrech Beach Intro](https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/)
+>[Wrech Beach Intro  (source)](https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/)
  
 ##
 ## ► School Life
@@ -322,7 +323,7 @@ Sometimes, a certificate of enrollment is required to process some documents. Yo
 As one of the benefits for UBC students, we can use the school's swimming pool for free. The UBC Aquatic Centre is a water center built to world-class standards. You only need to make a reservation one day in advance.
 
 >![](exhibit/UBC%20Aquatic%20Centre.png) 
->UBC Aquatic Centre
+>[UBC Aquatic Centre (source)](https://www.aia.org/showcases/6126164-ubc-aquatic-centre)
 >
 >**Location**: 6080 Student Union Blvd, Vancouver, BC V6T 1Z1
 >
@@ -335,7 +336,7 @@ As one of the benefits for UBC students, we can use the school's swimming pool f
 As with the swimming pool, we can use the ice-skating rink for free. However, if you don't have your own helmet and skates, you must pay to rent them.
 
 >![](exhibit/ice.jpg)
->[Doug Mitchell Thunderbird Sports Centre](https://sportfacilities.ubc.ca/dmc/)
+>[Doug Mitchell Thunderbird Sports Centre (source)](https://sportfacilities.ubc.ca/dmc/)
 >
 >**Location**: 2555 Wesbrook Mall, Vancouver, BC, V6T 1Z1
 >
@@ -464,7 +465,42 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 
 温哥华有很多超市和餐厅是接受支付宝付款的。他乡遇故“支”。在Richmond的Costco旁的丰泰超市甚至还有家支付宝旗舰店。此外，缴纳学费不受到每年5万刀的外汇管制限制，也能通过支付宝缴纳。
 
+##
+## ► Image Source
 
+https://en.wikipedia.org/wiki/Visa_policy_of_Canada#/media/File:Student_Visa_of_Canada_Issued_on_the_PRC_Passport_in_2015.jpg
+
+https://www.ucalgary.ca/live-uc-ucalgary-site/sites/default/files/teams/69/study-permit-with-info.jpg
+
+https://offtracktravel.ca/arriving-vancouver-working-holiday-iec/
+
+https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card
+
+https://www.cbc.ca/news/business/marketplace-high-cell-phone-bills-1.6711205
+
+https://www.cbc.ca/news/canada/british-columbia/preloaded-compass-cards-faredealers-1.3412249
+
+https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/
+
+https://www.surreynowleader.com/news/icbc-moves-to-appointment-based-system-for-all-in-office-driver-services/
+
+https://www.sauder.ubc.ca/news/school-news/ubc-ranked-1-canada-business-administration-arwu-fifth-consecutive-year
+
+https://www.archdaily.com/775763/ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers/56278cd6e58ece127a000225-ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers-photo?next_project=no
+
+https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/
+
+https://decaseconds.com/2012/08/09/ubc-rose-garden/
+
+https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/
+
+https://www.aia.org/showcases/6126164-ubc-aquatic-centre
+
+https://sportfacilities.ubc.ca/dmc/
+
+
+
+##
 ## ► Contents
 
 - [ 100 Things I Wish I'd Known in My First 10 Days in Vancouver](#-100-things-i-wish-id-known-in-my-first-10-days-in-vancouver)
@@ -543,4 +579,7 @@ Being a student at UBC comes with many benefits. Some of them have already been 
     - [• 列治文](#-列治文)
     - [• 海底捞](#-海底捞)
     - [• 支付宝](#-支付宝)
+  - [](#-15)
+  - [► Image Source](#-image-source)
+  - [](#-16)
   - [► Contents](#-contents)
