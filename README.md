@@ -1,10 +1,10 @@
-# <center> 100 Things I Wish I'd Known in My First 10 Days in Vancouver
+# <center> 100 Things I Wish I'd Known in My First 10 Days in Vancouver</center>
 
-<center><big><b> Unofficial UBC Sauder Newcomer Tips</b></big></center>
+## <center> Unofficial UBC Sauder Newcomer Tips</center>
 
 <p><center>Henry Wu</center></p>
 
-<font color=grey><center><i>Current Version: v1.0 | Updated: 2023-08-10 | Link of Latest Version: https://github.com/ihenrywu/100things</i></center></font>
+><font color=grey><center>Current Version: v1.0 | Updated: 2023-08-10 | Link of Latest Version: https://github.com/ihenrywu/100things</center></font>
 
 ## 
 
@@ -59,7 +59,9 @@ After settling, apply for MSP (Medical Services Plan) as soon as possible. MSP i
 Believe me, paying for your own hospitalization must be one of the last things you want to do in Canada. A while ago, I had some tooth fillings in Vancouver. The good news is that MSP covered some of the costs, but even so, the moment I saw the bill, how can I put it, I don't think MBA tuition is that expensive anymore.
 
 >**Link:** [Apply for MSP](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
- 
+
+
+##
 ## ► Baggage
 
 If you're not in Canada when you read this, you still have a chance to double-check your luggage. Technically, if you have enough budget, you only need a credit card for carry-on luggage: you can buy anything in Vancouver. But if you want to save money, it's better to use your full airline baggage allowance. Some pointers:
@@ -79,8 +81,10 @@ Considering that hotel prices always peak at the beginning of the school year, i
 Please read the list of "Restricted and prohibited goods" published by the Canadian Border Services Agency carefully. Generally speaking, fruits and meats are prohibited. Just because Canada is a friendly country doesn't mean fines aren't here. Don't let a ticket be the first impression you leave when you enter Canada.
  
 >**Link:** [Restricted and prohibited goods](https://www.cbsa-asfc.gc.ca/travel-voyage/rpg-mrp-eng.html)
- 
-## ► Phone Cards
+
+
+##
+## ► Phone SIM Cards
 
 If necessary, activate your homeland SIM card for international roaming, or at least to ensure that you can receive text messages. This is so that you can, for one, receive a verification code when you sign up for an account before you buy a Canada SIM card, and in case some accounts in your home country require verification by text message.
 
@@ -89,7 +93,8 @@ If necessary, activate your homeland SIM card for international roaming, or at l
 >[Canada wireless providers (source)](https://www.cbc.ca/news/business/marketplace-high-cell-phone-bills-1.6711205)
  
 While many SIM card options exist in Canada, the main carriers are Rogers, Bell, and TELUS. Affordable choices for international students include Fido, Koodo, and Lucky, which around $30-40 per month. The cheapest phone card is Public Mobile, which costs $10-15 a month but has the least airtime and traffic. Take some time to do your homework in advance, pick the best one for you, and then go to the nearest store to buy a SIM card when you arrive in Canada.
- 
+
+##
 ## ► Bank Cards
 
 Top banks include RBC, CIBC, TD, BMO, and Scotiabank. They often have promotions on card openings, so research well on their websites first. With your passport and Study Permit, you can apply for a debit card, and it is best to apply for a credit card at the same time to build up your credit score in Canada.
@@ -99,6 +104,7 @@ Top banks include RBC, CIBC, TD, BMO, and Scotiabank. They often have promotions
  
 All of these banks have branches on campus. But note that most banks do not accept walk-in to open an account, so you must make an appointment on the official website. You can do it now, based on your arrival date, so you can be the first to get a card once you've settled in. If you already have a Visa or Mastercard card from your home country, you can swipe it in most cases. In addition, for Chinese students, Alipay is accepted in many places in Vancouver.
  
+##
 ## ► Shopping
 
 ### • Supermarkets
@@ -125,7 +131,8 @@ In addition, you can join some Facebook groups, such as "UBC Buy and Sell Items,
 >Link: [Facebook Group: UBC Buy and Sell Items](https://m.facebook.com/groups/ubcbuyandsellitems/?ref=share&mibextid=K8Wfd2)
 >
 >Link: [Facebook Group: Buy Nothing UBC Campus](https://m.facebook.com/groups/bnpubc/?ref=share&mibextid=K8Wfd2)
- 
+
+## 
 ## ► Getting Around
 
 ### • Public Transportation
@@ -172,6 +179,7 @@ There are also other choices, like modo, zerocar. To rent a car you need to have
  
 **Link:** [EVO website](https://evo.ca/)
  
+##
 ## ► Identifications
 
 ### • Student card
@@ -223,8 +231,8 @@ You can get your SIN at Service Canada Centers, which are many. You can search f
 >**Link:** [Apply for SIN](https://www.canada.ca/en/employment-social-development/services/sin/apply.html)
  
  
- 
-## ► Campus
+## 
+## ► UBC Campus
 
 UBC, often heralded as North America's most beautiful campus, offers breathtaking views  of ocean and snow-covered mountains. Here are some must-visit spots on campus:
  
@@ -270,6 +278,7 @@ It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Ca
 
 Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the offical name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
  
+##
 ## ► School Life
 
 ### • Coffee Chat with BCC
@@ -327,6 +336,8 @@ The closest golf course to UBC is right next, and although it's called the Unive
  
 >**Link:** [Universitygolf Website](https://universitygolf.com/)
  
+
+##
 ## ► Restaurants
 
 No one restaurant suits everyone's tastes so that I won't make any recommendations for restaurants, but there are a few tucked-away options to talk about.
@@ -347,6 +358,8 @@ Food Court is highly recommended; there are several restaurants inside, almost t
 
 Forget Starbucks; that's Seattle coffee. Here in Canada, we drink Tims, which can be found almost everywhere on the streets of Canada, and the most classic coffee is the “Double Double”. there is a Tims right next door to Sauder's, and many students will buy a cup of coffee there if they have a class in the morning, but it usually takes quite a long time to queue up.
  
+
+##
 ## Medical
 
 I don't expect you to use this knowledge, but if you need to, I hope you won't be in a hurry. This section does not constitute medical advice. Please consult a professional when needed.
@@ -371,6 +384,8 @@ In addition, our insurance covers vaccine expenses, and it is possible to get th
  
 >**Link:** [Get Vaccinated Website](https://www2.gov.bc.ca/gov/content/covid-19/vaccine/register)
  
+
+##
 ## ► Benefits
 
 Being a student at UBC comes with many benefits. Some of them have already been listed, so I'll summarize them:
@@ -388,10 +403,14 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 * to be continued...
  
 
+##
 ## ► Author Info
 
 >This article is originally written by Henry Wu, translated by DeepL, polished by ChatGPT, proofread by Grammarly, and finally edited by Henry Wu.
 
+![](exhibit/flag.png)
+
+##
 ## ► Tips for Chinese Students
 
 温哥华是北美华人生活舒适度最高的城市之一，除了贵和不好找工作外，几乎没有其他缺点。如果你是刚到温哥华的中国学生，这里有一些tips。
@@ -438,41 +457,50 @@ Being a student at UBC comes with many benefits. Some of them have already been 
 ## ► Contents
 
 - [ 100 Things I Wish I'd Known in My First 10 Days in Vancouver](#-100-things-i-wish-id-known-in-my-first-10-days-in-vancouver)
+  - [ Unofficial UBC Sauder Newcomer Tips](#-unofficial-ubc-sauder-newcomer-tips)
   - [](#)
   - [](#-1)
   - [► First Things First](#-first-things-first)
     - [• Study Permit](#-study-permit)
     - [• Work Permit](#-work-permit)
     - [• MSP](#-msp)
+  - [](#-2)
   - [► Baggage](#-baggage)
     - [• Suits](#-suits)
     - [• Bed sheets](#-bed-sheets)
     - [• Prohibited goods](#-prohibited-goods)
-  - [► Phone Cards](#-phone-cards)
+  - [](#-3)
+  - [► Phone SIM Cards](#-phone-sim-cards)
+  - [](#-4)
   - [► Bank Cards](#-bank-cards)
+  - [](#-5)
   - [► Shopping](#-shopping)
     - [• Supermarkets](#-supermarkets)
     - [• Online shopping](#-online-shopping)
     - [• One-Dollar store](#-one-dollar-store)
     - [• Second-hand](#-second-hand)
+  - [](#-6)
   - [► Getting Around](#-getting-around)
     - [• Public Transportation](#-public-transportation)
     - [• UPASS](#-upass)
     - [• Uber](#-uber)
     - [• Taxi](#-taxi)
     - [• Rent a car](#-rent-a-car)
+  - [](#-7)
   - [► Identifications](#-identifications)
     - [• Student card](#-student-card)
     - [• Student Email](#-student-email)
     - [• BCID](#-bcid)
     - [• Driver's License](#-drivers-license)
     - [• SIN](#-sin)
-  - [► Campus](#-campus)
+  - [](#-8)
+  - [► UBC Campus](#-ubc-campus)
     - [• Sauder Business School](#-sauder-business-school)
     - [• UBC Bookstore](#-ubc-bookstore)
     - [• Libraries](#-libraries)
     - [• Rose Garden](#-rose-garden)
     - [• Wrech beach](#-wrech-beach)
+  - [](#-9)
   - [► School Life](#-school-life)
     - [• Coffee Chat with BCC](#-coffee-chat-with-bcc)
     - [• Meeting Room Reservation](#-meeting-room-reservation)
@@ -481,16 +509,21 @@ Being a student at UBC comes with many benefits. Some of them have already been 
     - [• Swimming Pool](#-swimming-pool)
     - [• Ice skating:](#-ice-skating)
     - [• Golf Course](#-golf-course)
+  - [](#-10)
   - [► Restaurants](#-restaurants)
     - [• Pizza](#-pizza)
     - [• Chinese restaurants](#-chinese-restaurants)
     - [• Tim Hortons](#-tim-hortons)
+  - [](#-11)
   - [Medical](#medical)
     - [• Emergency](#-emergency)
     - [• Pharmacies](#-pharmacies)
     - [• Vaccines](#-vaccines)
+  - [](#-12)
   - [► Benefits](#-benefits)
+  - [](#-13)
   - [► Author Info](#-author-info)
+  - [](#-14)
   - [► Tips for Chinese Students](#-tips-for-chinese-students)
     - [• 银行卡](#-银行卡)
     - [• 电话卡](#-电话卡)
