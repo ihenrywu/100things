@@ -98,9 +98,6 @@ While many SIM card options exist in Canada, the main carriers are Rogers, Bell,
 ## ► Bank Cards
 
 Top banks include RBC, CIBC, TD, BMO, and Scotiabank. They often have promotions on card openings, so research well on their websites first. With your passport and Study Permit, you can apply for a debit card, and it is best to apply for a credit card at the same time to build up your credit score in Canada.
-
->![](exhibit/big5.jpg)
->[Top 5 Banks in Canada](https://fintel.io/news/latest-results-suggest-best-days-behind-canadian-banks-749)
  
 All of these banks have branches on campus. But note that most banks do not accept walk-in to open an account, so you must make an appointment on the official website. You can do it now, based on your arrival date, so you can be the first to get a card once you've settled in. If you already have a Visa or Mastercard card from your home country, you can swipe it in most cases. In addition, for Chinese students, Alipay is accepted in many places in Vancouver.
  
@@ -158,6 +155,17 @@ One more thing, in Canada, at least in Vancouver, there is a special culture in 
 ### • Uber
 
 Uber is a popular choice in Vancouver, with Lyft and Kabu also available. These apps are super convenient, but can be pricey.
+ 
+### • Rent a car
+
+Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with a refer code: XDO7VX05
+
+>![](exhibit/evo.png)
+>[EVO](https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/)
+
+There are also other choices, like modo, zerocar. To rent a car you need to have a local driver's license, or your home country's license plus an approved translation.
+ 
+**Link:** [EVO website](https://evo.ca/)
 
 ### • Taxi
 
@@ -167,18 +175,6 @@ Below is a price map from Vancouver Airport to your destination. UBC is located 
 
 ![](exhibit/taix.jpeg)
 
- 
-### • Rent a car
-
-Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with my refer code: XDO7VX05. 
-
->![](exhibit/evo.png)
->[EVO](https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/)
-
-There are also other choices, like modo, zerocar. To rent a car you need to have a local driver's license, or your home country's license plus an approved translation.
- 
-**Link:** [EVO website](https://evo.ca/)
- 
 ##
 ## ► Identifications
 
@@ -188,7 +184,7 @@ You don't have to wait until you arrive in Canada to apply. Submit the necessary
 
 >![](exhibit/studentcard.png)
 >[Student Card](https://ubccard.ubc.ca/about-the-ubccard)
- 
+>
 >**Link:** [Apply for UBC student card](https://ubccard.ubc.ca/)
  
 ### • Student Email
@@ -274,9 +270,12 @@ It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Ca
 >![](exhibit/rose%20garden.png)
 >[Rose Garden](https://decaseconds.com/2012/08/09/ubc-rose-garden/)
  
-### • Wrech beach
+### • Wreck Beach
 
 Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the offical name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
+
+>![](exhibit/wreckbeach.jpg)
+>[Wrech Beach Intro](https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/)
  
 ##
 ## ► School Life
@@ -302,6 +301,9 @@ If you could only bookmark one site in your browser, I'd recommend reserving tha
 If you're just studying alone, just find a random library, but if you're working in a group and need to discuss with your team, you need to find a meeting room.
  
 >**Link:** [Meeting room reservation](https://booking.sauder.ubc.ca/gbr/)
+
+>![](exhibit/meetingroom.png)
+>Sauder's Meeting Room
  
 ### • Printing/Scanning
 
@@ -318,16 +320,25 @@ Sometimes, a certificate of enrollment is required to process some documents. Yo
 ### • Swimming Pool
 
 As one of the benefits for UBC students, we can use the school's swimming pool for free. The UBC Aquatic Centre is a water center built to world-class standards. You only need to make a reservation one day in advance.
- 
->Location: 6080 Student Union Blvd, Vancouver, BC V6T 1Z1
+
+>![](exhibit/UBC%20Aquatic%20Centre.png) 
+>UBC Aquatic Centre
+>
+>**Location**: 6080 Student Union Blvd, Vancouver, BC V6T 1Z1
 >
 >**Link:** [Reservation address](https://recreation.ubc.ca/)
+
  
  
 ### • Ice skating:
 
 As with the swimming pool, we can use the ice-skating rink for free. However, if you don't have your own helmet and skates, you must pay to rent them.
- 
+
+>![](exhibit/ice.jpg)
+>[Doug Mitchell Thunderbird Sports Centre](https://sportfacilities.ubc.ca/dmc/)
+>
+>**Location**: 2555 Wesbrook Mall, Vancouver, BC, V6T 1Z1
+>
 >**Link:** [Reservation address](https://recreation.ubc.ca/)
  
 ### • Golf Course
@@ -360,7 +371,7 @@ Forget Starbucks; that's Seattle coffee. Here in Canada, we drink Tims, which ca
  
 
 ##
-## Medical
+## ► Medical
 
 I don't expect you to use this knowledge, but if you need to, I hope you won't be in a hurry. This section does not constitute medical advice. Please consult a professional when needed.
  
@@ -484,8 +495,8 @@ Being a student at UBC comes with many benefits. Some of them have already been 
     - [• Public Transportation](#-public-transportation)
     - [• UPASS](#-upass)
     - [• Uber](#-uber)
-    - [• Taxi](#-taxi)
     - [• Rent a car](#-rent-a-car)
+    - [• Taxi](#-taxi)
   - [](#-7)
   - [► Identifications](#-identifications)
     - [• Student card](#-student-card)
@@ -499,7 +510,7 @@ Being a student at UBC comes with many benefits. Some of them have already been 
     - [• UBC Bookstore](#-ubc-bookstore)
     - [• Libraries](#-libraries)
     - [• Rose Garden](#-rose-garden)
-    - [• Wrech beach](#-wrech-beach)
+    - [• Wreck Beach](#-wreck-beach)
   - [](#-9)
   - [► School Life](#-school-life)
     - [• Coffee Chat with BCC](#-coffee-chat-with-bcc)
@@ -515,7 +526,7 @@ Being a student at UBC comes with many benefits. Some of them have already been 
     - [• Chinese restaurants](#-chinese-restaurants)
     - [• Tim Hortons](#-tim-hortons)
   - [](#-11)
-  - [Medical](#medical)
+  - [► Medical](#-medical)
     - [• Emergency](#-emergency)
     - [• Pharmacies](#-pharmacies)
     - [• Vaccines](#-vaccines)
