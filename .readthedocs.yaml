@@ -18,7 +18,7 @@ build:
 sphinx:
   configuration: source/conf.py
   builder: html
-  output: '$READTHEDOCS_OUTPUT/build/html'
+  # Removed the output key since it's not valid
 
   # You can configure Sphinx to use a different builder, for instance use the dirhtml builder for simpler URLs
   # builder: "dirhtml"
