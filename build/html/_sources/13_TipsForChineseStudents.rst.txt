@@ -1,5 +1,5 @@
-Tips for Chinese Students
-=========================
+中国学生看这里
+================
 .. contents:: 
    :local:
    :depth: 2
