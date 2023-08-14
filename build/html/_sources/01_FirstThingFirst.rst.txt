@@ -1,6 +1,10 @@
 First Things First
 ==================
+.. contents:: 
+   :local:
+   :depth: 2
 
+----
 
 Study Permit
 ------------
@@ -27,16 +31,19 @@ The place you get the Study Permit is the Immigration office adjacent to the **N
    :width: 600px
    :align: center
 
-   Immigration Office at Vancouver Airport[#]_
+   Immigration Office at Vancouver Airport [#]_
 
 You need to pay attention to the various possible pronunciations of your name in English. Don't expect too much from the staff's foreign language pronunciation. It often happens that some people are called several times before realizing that they are being called.
 
 After you get your Study Permit, make sure that your name and the length of time you are allowed to stay are correct, and then you can go pick up your luggage. Considering that getting the Study Permit takes about half an hour, many people will choose to get their luggage first and put it in a corner somewhere before waiting for the Study Permit. Don't walk through the gate of the exit without getting your Study Permit since it is a one-way gate.
 
-.. note:: Official Guidelines: `Documents you need when you arrive in Canada <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html>`_
+.. note:: 
+   - `IRCC: Documents you need when you arrive in Canada <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html>`_
 
-.. note:: Official Guidelines: `Information for international students (PDF) <https://www.cbsa-asfc.gc.ca/publications/pub/international-students-etudiants-etrangers-eng.pdf>`_
+   - `Canadian Border Service Agency: Information for international students (PDF) <https://www.cbsa-asfc.gc.ca/publications/pub/international-students-etudiants-etrangers-eng.pdf>`_
 
+
+----
 
 Work Permit
 -----------
@@ -44,6 +51,8 @@ Work Permit
 The Study Permit allows you to study in Canada, but does not authorize you to work in Canada, including part-time jobs and internships, which require a Work Permit, also a A4-size paper. Because Sauder's MBA and MBAN programs have internships in their requirements, you must also apply for a Work Permit. Some people apply for Work Permit when they apply for their visitor visa as well, then they can get both Study Permit and Work Permit when they enter the country; some others submit study purposes only when they apply for the visa, then please apply for Work Permit online after entering the country.
 
 Most of us need a visa to enter Canada, so I'm sure you already know about the IRCC's efficiency. But rest assured, IRCC can still surprise you when applying for a Work Permit. I applied online in August but didn't receive it until January. Our internship started in April though, so it was not too late. Anyway, apply as early as you can. If you don't have a Work Permit, you might not be eligible for the internship, then you won't get the corresponding credits, which may affect your graduation.
+
+----
 
 MSP
 ---
@@ -61,9 +70,9 @@ Believe me, paying for your own hospitalization must be one of the last things y
 .. note:: Official Website Link: `Apply for MSP <https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp>`_
 
 
+----
 
-References
-----------
+**Image Source**
    .. [#] https://en.wikipedia.org/wiki/Visa_policy_of_Canada#/media/File:Student_Visa_of_Canada_Issued_on_the_PRC_Passport_in_2015.jpg
 
    .. [#] https://www.ucalgary.ca/live-uc-ucalgary-site/sites/default/files/teams/69/study-permit-with-info.jpg

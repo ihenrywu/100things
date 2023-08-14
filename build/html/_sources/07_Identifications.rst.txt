@@ -1,5 +1,10 @@
 Identifications
 ===============
+.. contents:: 
+   :local:
+   :depth: 2
+
+----
 
 Student card
 ------------
@@ -13,6 +18,7 @@ You don't have to wait until you arrive in Canada to apply. Submit the necessary
 
 .. note:: Official Website Link: `Apply for UBC student card <https://ubccard.ubc.cUBC student carda/>`_
 
+----
 
 Student Email
 -------------
@@ -21,6 +27,22 @@ This is just as important as the student ID card. Many student-related benefits 
 
 .. note:: Official Website Link: `Apply for UBC student email <https://it.ubc.ca/services/email-voice-internet/ubc-student-email-service>`_
 
+
+----
+
+SIN
+---
+
+Social Insurance Number is a unique identifier used by the Government of Canada to identify individuals and track their personal insurance, tax and employment records. A person has one and only one. Since our program includes an internship, you'd better apply for SIN.
+
+Note that this is not a card, but nine numbers. Although the staff does give you a piece of paper with this number on it once it has been processed, that piece of paper is just a normal A4 sheet of paper, it is the number that is important. Please keep this number confidential and do not post it on the Internet or tell anyone other than your employer about it, except when doing related business at a bank or other government organizations.
+
+You can get your SIN at Service Canada Centers, which are many. You can search for the one closest to you on Google. The required documents are a passport, Study Permit, documents proving your address, and possibly proof of enrollment. SIN accepts walk in, but like BCID, making an appointment in advance is highly recommended before you go. Otherwise, you may wait until the site and wonder if the time has stopped.
+
+.. note:: Official Website Link: `Apply for SIN <https://www.canada.ca/en/employment-social-development/services/sin/apply.html>`_
+
+   
+----
 
 BCID
 ----
@@ -40,6 +62,7 @@ The application process is very simple, with your passport and Study Permit, go 
 
 .. note:: Official Website Link: `Apply for BCID <https://www.icbc.com/driver-licensing/getting-licensed/Pages/Apply-for-a-BCID.aspx>`_
 
+----
 
 Driver's License
 ----------------
@@ -48,19 +71,11 @@ You can apply for a local driver's license if you plan to rent or buy a car. If 
 
 Note that if your previous driver's license is in a language other than English, you need to find a translation agency authorized by ICBC to translate it. The cost is about $10-$30.
 
-SIN
----
-
-Social Insurance Number is a unique identifier used by the Government of Canada to identify individuals and track their personal insurance, tax and employment records. A person has one and only one. Since our program includes an internship, you'd better apply for SIN.
-
-Note that this is not a card, but nine numbers. Although the staff does give you a piece of paper with this number on it once it has been processed, that piece of paper is just a normal A4 sheet of paper, it is the number that is important. Please keep this number confidential and do not post it on the Internet or tell anyone other than your employer about it, except when doing related business at a bank or other government organizations.
-
-You can get your SIN at Service Canada Centers, which are many. You can search for the one closest to you on Google. The required documents are a passport, Study Permit, documents proving your address, and possibly proof of enrollment. SIN accepts walk in, but like BCID, making an appointment in advance is highly recommended before you go. Otherwise, you may wait until the site and wonder if the time has stopped.
-
-.. note:: Official Website Link: `Apply for SIN <https://www.canada.ca/en/employment-social-development/services/sin/apply.html>`_
 
 
-References
-----------
+
+----
+
+**Image Source**
    .. [#] https://ubccard.ubc.ca/about-the-ubccard
    .. [#] https://www.redsealnotary.com/Publications/2013-07-08-Help-no-ID-in-British-Columbia.php

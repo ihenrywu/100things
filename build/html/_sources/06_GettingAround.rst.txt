@@ -1,10 +1,18 @@
 Getting Around
 ==============
+.. contents:: 
+   :local:
+   :depth: 2
+
+----
+
 
 Public Transportation
 ---------------------
 
 Public Transportation: Vancouver, like many cities, offers an eco-friendly and budget-friendly mode of transportation: public transit. In addition to biking, the city's rail transit, the SkyTrain, is both punctual and efficient. One downside: UBC isn't on its current route. The good news is that UBC is on the plan of the SkyTrain route, while the bad news is that UBC students have heard this news for at least a decade.
+
+----
 
 UPASS
 -----
@@ -19,16 +27,23 @@ At UBC, there's a bus loop serving as the terminus for several buses. Attention!
 
 Actually, this isn't truly "free" - it's part of your tuition. So, don't waste it. By the way, you need to manually update your card on the UPASS website at the end of each month so that it will work the following month. On the first of every month, you can see some passengers on the bus, embarrassed to find out that the swipe card failed. To be safe, you can set an alarm each month.
 
-.. note:: Official Website Link: `Compass Card <https://www.compasscard.ca/>`_
+.. note:: 
+   Official Website Link
    
-          Official Website Link: `UPASS <https://upassbc.translink.ca/>`_
+   - `Compass Card <https://www.compasscard.ca/>`_
+   
+   - `UPASS <https://upassbc.translink.ca/>`_
 
 One more thing, in Canada, at least in Vancouver, there is a special culture in public transportation: when you get off the bus, you need to say "thank you" loudly to the driver. I'm not kidding; it's true. Welcome to friendly Canada. But you don't have to say "thank you" to the driver on SkyTrain - after all, it's driverless.
+
+----
 
 Uber
 ----
 
 Uber is a popular choice in Vancouver, with Lyft and Kabu also available. These apps are super convenient, but can be pricey.
+
+----
 
 Rent a car
 ----------
@@ -45,6 +60,8 @@ There are also other choices, like modo, zerocar. To rent a car you need to have
 
 .. note:: Official Website Link: `EVO <https://evo.ca/>`_
 
+----
+
 Taxi
 ----
 
@@ -57,8 +74,9 @@ Below is a price map from Vancouver Airport to your destination. UBC is located 
    :alt: Taxi price map
 
 
-References
-----------
+----
+
+**Image Source**
    .. [#] https://www.cbc.ca/news/canada/british-columbia/preloaded-compass-cards-faredealers-1.3412249
 
    .. [#] https://www.vulog.com/blog/the-eco-friendly-carsharing-service-in-vancouver-evo-vulog/

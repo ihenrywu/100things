@@ -1,11 +1,22 @@
 Benefits
 ========
 
-Being a student at UBC comes with many benefits. Some of them have already been listed, so I'll summarize them:
+Being a student at UBC comes with many benefits. Some of them  have already been listed above. Here are the links.
 
-* public transportation: UPASS
-* Free Amazon Primary membership for 6 months
-* Free OneDrive account
-* Free use of swimming pool/skating rink
-* Insurance covers some of the cost of vaccine (HPV)
-* to be continued...
+Free Public Transportation: :ref:`UPASS`
+----------------------------------------
+
+Free use of :ref:`Swimming`, and :ref:`Ice Skating`
+----------------------------------------------------
+
+Insurance covers some of the cost of :ref:`Vaccines`
+-----------------------------------------------------
+
+Free Amazon Primary membership for 6 months
+--------------------------------------------
+
+Free OneDrive account
+---------------------
+
+to be continued...
+------------------

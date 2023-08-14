@@ -1,7 +1,12 @@
 UBC Campus
 ==========
+.. contents:: 
+   :local:
+   :depth: 2
 
 UBC, often heralded as North America's most beautiful campus, offers breathtaking views of ocean and snow-covered mountains. Here are some must-visit spots on campus:
+
+----
 
 Sauder Business School
 ----------------------
@@ -15,6 +20,8 @@ You could almost call it being located right in the center of the campus. The bu
 
 
 Most of our classes are held in the Henry Angus Bldg. On the north side of the first floor, there is the meeting rooms area, you need to swipe your student ID card to enter, and you also need to make a reservation in advance. The north side of the second floor is the library. The lounge for MBAN is on the 3rd floor, and for MBA is the 4th floor.
+
+----
 
 UBC Bookstore
 -------------
@@ -31,7 +38,9 @@ The most sought-after items sold at bookstore are the co-branded culture shirts 
 .. figure:: exhibit/lululemon.jpeg
    :align: center
 
-   `UBC & Lululemon <https://gothunderbirds.ca/news/2023/2/2/general-ubc-lululemon-announce-student-scholarship-research-and-apparel-partnership.aspx>`
+   UBC & Lululemon [#]_
+
+----
 
 Libraries
 ---------
@@ -41,10 +50,12 @@ There are two libraries near Sauder, both are good places for self-study. Some m
 .. figure:: exhibit/ikblc.jpg
    :align: center
 
-   `Irving K. Barber Learning Centre (source) <https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/>`
+   Irving K. Barber Learning Centre [#]_
 
 Walter C. Koerner Library: 1958 Main Mall, Vancouver, BC V6T 1Z2
 Irving K. Barber Learning Centre: 1961 E Mall, Vancouver, BC V6T 1Z1
+
+----
 
 Rose Garden
 -----------
@@ -54,23 +65,34 @@ It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Ca
 .. figure:: exhibit/rosegarden.png
    :align: center
 
-   `Rose Garden (source) <https://decaseconds.com/2012/08/09/ubc-rose-garden/>`
+   Rose Garden [#]_
+
+----
 
 Wreck Beach
 -----------
 
-Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the official name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on, don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
+Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the official name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. 
+
+While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on. Don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
 
 .. figure:: exhibit/wreckbeach.jpg
    :align: center
 
-   `Wreck Beach Intro (source) <https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/>`
+   Wreck Beach Intro [#]_
 
 
-References
-----------
+----
+
+**Image Source**
    .. [#] https://www.sauder.ubc.ca/news/school-news/ubc-ranked-1-canada-business-administration-arwu-fifth-consecutive-year
 
    .. [#] https://www.archdaily.com/775763/ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers/56278cd6e58ece127a000225-ubc-bookstore-office-of-mcfarlane-biggar-architects-plus-designers-photo?next_project=No
 
+   .. [#]  https://gothunderbirds.ca/news/2023/2/2/general-ubc-lululemon-announce-student-scholarship-research-and-apparel-partnership.aspx
+
+   .. [#] https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/
    
+   .. [#] https://decaseconds.com/2012/08/09/ubc-rose-garden/
+
+   .. [#] https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/

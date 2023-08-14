@@ -3,11 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 100Things documentation!
-====================================
+100 Things I Wish I'd Known in My First Year in Vancouver
+============================================================
+
+If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
+
+.. figure:: exhibit/NewcomerTips.png
+   :align: center
+
+
+Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me: drop me a mail at ihenrywu.ca#gmail.com or contact me on `LinkedIn <https://www.linkedin.com/in/ihenrywu/>`_. Let's create this list of 100 things together.
+
+
+.. warning:: 
+   **Disclaimer**: This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions.
+
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    01_FirstThingFirst
@@ -26,14 +40,8 @@ Welcome to 100Things documentation!
 
 
 
-Indices and tables
-==================
+.. code-block:: none
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-Author Info
-===========
-
-This article is originally written by Henry Wu, translated by DeepL, polished by ChatGPT, proofread by Grammarly, and finally edited by Henry Wu.
+   The content is originally written by Henry Wu, 
+   translated by DeepL, polished by ChatGPT, proofread by Grammarly, 
+   and finally edited by Henry Wu.
