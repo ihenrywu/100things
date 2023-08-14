@@ -4,4 +4,4 @@
 
 ``Latest Version: 2.0``,  ``Updated: 2023-08-14``
 
-Link: https://100things.readthedocs.io/en/latest/
+Read the full text of this Handbook: https://100things.readthedocs.io/en/latest/
