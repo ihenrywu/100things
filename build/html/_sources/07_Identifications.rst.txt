@@ -9,12 +9,30 @@ Identifications
 Student card
 ------------
 
-You don't have to wait until you arrive in Canada to apply. Submit the necessary photo online, and in a few days, pick it up at select places on campus, like the UBC bookstore, when you arrive at UBC. With the student ID, you can enter Sauder's meeting rooms, check out books from the library, buy goods from the vending machines, and so on.
+You don't have to wait until you arrive in Canada to apply for Student Card. 
 
 .. figure:: exhibit/studentcard.png
    :align: center
 
    UBC Student Card [#]_
+
+Submit your photo online, and in a few days, pick it up at select places on campus, like the UBC bookstore, when you arrive at UBC. 
+
+.. figure:: exhibit/pathtolibrary.jpeg
+   :align: center
+
+   Path to library
+
+
+.. figure:: exhibit/pickupstudentid.jpeg
+   :align: center
+
+   Pick up student ID at UBC Bookstore (Photo Provider: Sam)
+
+
+With the student ID, you can enter Sauder's meeting rooms, check out books from the library, buy goods from the vending machines, and so on.
+
+
 
 .. note:: Official Website Link: `Apply for UBC student card <https://ubccard.ubc.cUBC student carda/>`_
 
