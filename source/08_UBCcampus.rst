@@ -72,9 +72,14 @@ It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Ca
 Wreck Beach
 -----------
 
-Further north of the Rose Garden, a path leads to the beach. The scenery is beautiful, but Caution! This beach is a nude beach (the official name is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. 
+Further north of the Rose Garden, a path leads to a beach. The scenery is beautiful, but Caution! This beach is a nude beach (the official describe is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. 
 
-While it's not mandatory for everyone entering the beach to be nude, you'll be embarrassed to be yourself when you realize you're the only one on the beach with clothes on. Don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
+.. figure:: exhibit/wreck.png
+   :align: center
+
+   Wreck Beach Notice[#]_
+
+Nevertheless, you can still enjoy the scenery with your clothse. It's not mandatory for everyone entering the beach to be nude. However, you might be a little embarrassed if you haven't prepared for what you are going to see. Don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
 
 .. figure:: exhibit/wreckbeach.jpg
    :align: center
@@ -94,5 +99,7 @@ While it's not mandatory for everyone entering the beach to be nude, you'll be e
    .. [#] https://visit.ubc.ca/see-and-do/museums-and-art-galleries/irving-k-barber-learning-centre/
    
    .. [#] https://decaseconds.com/2012/08/09/ubc-rose-garden/
+
+   .. [#] https://vancouversun.com/news/local-news/metro-seeks-more-police-patrols-on-wreck-beach-as-popularity-brings-problems
 
    .. [#] https://visit.ubc.ca/see-and-do/gardens-and-nature/wreck-beach/

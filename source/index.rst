@@ -6,7 +6,7 @@
 100 Things I Wish I'd Known in My First Year in Vancouver
 ============================================================
 
-``Version: 2.0`` ``Date: 2023-08-14``
+``Version: 2.0`` ``Updated: 2023-08-14``
 
 If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
 
@@ -21,9 +21,10 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
    **Disclaimer**: This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions.
 
 .. note:: 
-   - Link of this Handbook: `100things(Link) <https://100things.readthedocs.io/en/latest/>`_
+   - Link of this Handbook: https://100things.readthedocs.io/en/latest/
 
-   - PDF of this Handbook: `100things(PDF) <https://github.com/ihenrywu/100things>`_
+..
+   PDF of this Handbook: `100things(PDF) <https://github.com/ihenrywu/100things>`
 
 
 .. toctree::
