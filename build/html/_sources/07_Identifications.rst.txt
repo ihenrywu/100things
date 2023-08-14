@@ -21,7 +21,7 @@ Submit your photo online, and in a few days, pick it up at select places on camp
 .. figure:: exhibit/pathtolibrary.jpeg
    :align: center
 
-   Path to library
+   Path to library (Photo Provider: Sam)
 
 
 .. figure:: exhibit/pickupstudentid.jpeg
