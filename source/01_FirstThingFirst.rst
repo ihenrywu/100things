@@ -35,7 +35,7 @@ The place you get the Study Permit is the Immigration office adjacent to the **N
 
 You need to pay attention to the various possible pronunciations of your name in English. Don't expect too much from the staff's foreign language pronunciation. It often happens that some people are called several times before realizing that they are being called.
 
-After you get your Study Permit, make sure that your name and the length of time you are allowed to stay are correct, and then you can go pick up your luggage. Considering that getting the Study Permit takes about half an hour, many people will choose to get their luggage first and put it in a corner somewhere before waiting for the Study Permit. Don't walk through the gate of the exit without getting your Study Permit since it is a one-way gate.
+After you get your Study Permit, make sure that your name and the length of time you are allowed to stay are correct, and then you can go pick up your luggage. Considering that getting the Study Permit takes about half an hour, some people will choose to get their luggage first and put it in a corner somewhere before waiting for the Study Permit. But if you want to get the Study Permit fast, go to the office first. Remember don't walk through the gate of the exit without getting your Study Permit since it is a one-way gate.
 
 .. note:: 
    - `IRCC: Documents you need when you arrive in Canada <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare-arrival.html>`_
