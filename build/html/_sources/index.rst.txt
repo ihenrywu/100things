@@ -22,6 +22,8 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
 
 .. note:: 
    - Link of this Handbook: https://100things.readthedocs.io/en/latest/
+   - Record of building this Document: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
+   
 
 ..
    PDF of this Handbook: `100things(PDF) <https://github.com/ihenrywu/100things>`
@@ -31,6 +33,7 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
    :maxdepth: 2
    :numbered:
    :caption: Contents:
+
 
    01_FirstThingFirst
    02_Baggage

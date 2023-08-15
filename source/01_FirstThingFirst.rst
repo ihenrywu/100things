@@ -27,7 +27,7 @@ When you get your student visa, you are eligible for Study Permit. What you need
 
 The place you get the Study Permit is the Immigration office adjacent to the **No.23 baggage claim carousel** in the airport after you pass customs. There are several rows of chairs in that hall, so go in and sit down in order, and a staff member will come by to collect the documents. After that, wait for the staff to call your name at the counter. 
 
-.. figure:: exhibit/Immigrationoffice.jpg
+.. figure:: exhibit/Immigrationoffice.png
    :width: 600px
    :align: center
 
