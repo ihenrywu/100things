@@ -34,7 +34,6 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
    :numbered:
    :caption: Contents:
 
-
    01_FirstThingFirst
    02_Baggage
    03_SIMcards
