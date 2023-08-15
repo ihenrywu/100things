@@ -6,7 +6,7 @@
 100 Things I Wish I'd Known in My First Year in Vancouver
 ============================================================
 
-``Version: 2.0`` ``Updated: 2023-08-14``
+``Version: 2.1`` ``Updated: 2023-08-14``
 
 If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
 
