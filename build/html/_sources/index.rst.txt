@@ -21,7 +21,7 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
    **Disclaimer**: This guide stems from personal experiences and some materials are from the Internet, they  might have a few misses. So, cross-check with credible sources before making major decisions.
 
 .. note:: 
-   - Link of this Handbook: https://100things.readthedocs.io/en/latest/
+   - URL of this Document: https://100things.readthedocs.io/en/latest/
    - Record of building this Document: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
    
 
