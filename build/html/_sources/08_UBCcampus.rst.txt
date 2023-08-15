@@ -77,7 +77,7 @@ Further north of the Rose Garden, a path leads to a beach. The scenery is beauti
 .. figure:: exhibit/wreck.png
    :align: center
 
-   Wreck Beach Notice[#]_
+   Wreck Beach Notice [#]_
 
 Nevertheless, you can still enjoy the scenery with your clothse. It's not mandatory for everyone entering the beach to be nude. However, you might be a little embarrassed if you haven't prepared for what you are going to see. Don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
 
