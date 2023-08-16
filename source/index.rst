@@ -6,15 +6,17 @@
 100 Things I Wish I'd Known in My First Year in Vancouver
 ============================================================
 
-``Version: 2.1`` ``Updated: 2023-08-14``
+``Version: 2.1.1`` ``Updated: 2023-08-16``
 
-If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, I was in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
+If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, we were in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
 
 .. figure:: exhibit/NewcomerTips.png
    :align: center
 
 
-Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me, or provide me the content directly. I will update the note as soon as possible and credit your contribution. Drop me a mail at ihenrywu.ca#gmail.com or contact me on `LinkedIn <https://www.linkedin.com/in/ihenrywu/>`_. Let's create this list of 100 things together.
+Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! It is an iterative process. If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact me, or provide me the content directly. we will update the note as soon as possible and credit your contribution: :ref:`Contributors`.
+
+Drop me a mail at ihenrywu.ca#gmail.com or contact me on `LinkedIn <https://www.linkedin.com/in/ihenrywu/>`_. Let's create this list of 100 things together.
 
 
 .. warning:: 
@@ -22,7 +24,7 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
 
 .. note:: 
    - URL of this Document: https://100things.readthedocs.io/en/latest/
-   - Record of building this Document: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
+   - How I built this Document: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
    
 
 ..
@@ -47,13 +49,12 @@ Oh, and while the title promises 100 things, we aren't there yet. But we're on o
    11_Medical
    12_Benefits
    13_TipsForChineseStudents
-   98_VersionHistory
+   98_ContributorsandVersions
    99_ContactMe
 
 
 
 .. code-block:: none
 
-   The content is originally written by Henry Wu, 
-   translated by DeepL, polished by ChatGPT, proofread by Grammarly, 
-   and finally edited by Henry Wu.
+   This project is initiated by Henry Wu, and updated by a lot of contributors.
+   The detailed contributors list can be found in the Contributors section.
