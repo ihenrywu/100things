@@ -6,7 +6,7 @@
 100 Things I Wish I'd Known in My First Year in Vancouver
 ============================================================
 
-``Version: 2.1.1`` ``Updated: 2023-08-16``
+``Version: 2.1.2`` ``Updated: 2023-08-16``
 
 If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natural to feel jittery. Hey, we were in your shoes once! Coming to UBC marked my first time in Vancouver (and Canada) too. And, looking back, having a cheat sheet of sorts would've certainly eased my nerves. Hence, that is the origin of this note. 
 
@@ -24,7 +24,7 @@ Drop me a mail at ihenrywu.ca#gmail.com or contact me on `LinkedIn <https://www.
 
 .. note:: 
    - URL of this Document: https://100things.readthedocs.io/en/latest/
-   - How I built this Document: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
+   - How this Document was built: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
    
 
 ..
