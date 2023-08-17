@@ -1,5 +1,5 @@
-Contributors and Versions
-===========================
+Versions Preview and History
+=============================
 
 Next Version Preview
 --------------------
