@@ -48,7 +48,7 @@ Uber is a popular choice in Vancouver, with Lyft and Kabu also available. These 
 Rent a car
 ----------
 
-Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with a refer code: XDO7VX05
+Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with a refer code. It is easy to find a refer code by Google.
 
 .. figure:: exhibit/evo.png
    :align: center
