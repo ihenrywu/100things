@@ -30,4 +30,4 @@ language = 'cn'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'build/html')
+html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'docs/CN/build/html')
