@@ -1,6 +1,8 @@
 福利
 ========
 
+（更新中，请稍后）
+
 Being a student at UBC comes with many benefits. Some of them  have already been listed above. Here are the links.
 
 Free Public Transportation: :ref:`UPASS`

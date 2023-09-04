@@ -3,5 +3,5 @@ Contact Us
 
 If you have any questions, comments, or concerns, please contact us at:
 
-* Email: ihenrywu.ca#gmail.com
+* Email: 100things.ca#gmail.com
 * LinkedIn: `Henry Wu <https://www.linkedin.com/in/ihenrywu/>`_

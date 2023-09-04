@@ -13,7 +13,6 @@ If you're stepping into Sauder, UBC, or Vancouver for the first time, it's natur
 .. figure:: ../../../images/NewcomerTips.png
    :align: center
 
-
 Oh, and while the title promises 100 things, we aren't there yet. But we're on our way! Yes, this project is open source, crowdsourcing, and an iterative process. If any introduction is not detailed enough or if you believe an important topic has been omitted, please feel free to contact us, or provide the content directly. we will update the note as soon as possible and credit your contribution: :ref:`Contributors`.
 
 Drop us a mail at `100things.ca@gmail.com <100things.ca@gmail.com>`_ or contact us on `LinkedIn <https://www.linkedin.com/in/ihenrywu/>`_. Let's create this list of 100 things together.
@@ -48,7 +47,6 @@ Drop us a mail at `100things.ca@gmail.com <100things.ca@gmail.com>`_ or contact 
    10_Restaurants
    11_Medical
    12_Benefits
-   13_TipsForChineseStudents
    98_ContributorsandVersions
    99_ContactMe
 
