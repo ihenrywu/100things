@@ -65,7 +65,7 @@ iClicker是投票器，也被教授们当作课堂签到工具。古早的iClick
 
 添加课程
 ^^^^^^^^^^^
-注册好后登陆账户，进入 `iCourse页面 <https://student.iclicker.com/#/courses/>`_：
+注册好后登陆账户，进入 `Course页面 <https://student.iclicker.com/#/courses/>`_：
 
 .. figure:: ../../../images/iclicker2.png
    :align: center
