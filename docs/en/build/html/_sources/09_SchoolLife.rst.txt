@@ -81,7 +81,7 @@ Click on the "+" sign in the upper-right corner to enter the school name page:
 .. figure:: ../../../images/iclicker3.png
    :align: center
 
-Click on "University of British Columbia" in the image above and proceed to the next page:
+Click on "University of British Columbia" in the image above and proceed to the next page. If you don't see the school name, you can search for it in the search bar.
 
 .. figure:: ../../../images/iclicker5.png
    :align: center
