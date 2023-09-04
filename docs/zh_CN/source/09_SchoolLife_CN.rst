@@ -58,22 +58,44 @@ iClicker是投票器，也被教授们当作课堂签到工具。古早的iClick
 
 注册账号
 ^^^^^^^^^^^
-进入 `iClicker官网 <https://student.iclicker.com/>`_. 点击 `Sign Up <https://student.iclicker.com/#/account/create>`_，在搜索栏输入“University of British Columbia”，点“Next”，然后填入学校邮箱等信息进行注册。
+进入 `iClicker官网 <https://student.iclicker.com/>`_， 点击 `Sign Up <https://student.iclicker.com/#/account/create>`_，在搜索栏输入“University of British Columbia”，点“Next”，然后填入学校邮箱等信息进行注册。
 
 .. figure:: ../../../images/iclicker01.png
    :align: center
 
 添加课程
 ^^^^^^^^^^^
-注册好后登陆账户，点击 `iCourse页面 <https://student.iclicker.com/#/courses/>`_ 右上角的“+”号，点击“University of British Columbia”，然后在搜索栏输入课程代码，比如“BABS 550”，然后选择对应的课程。
+注册好后登陆账户，进入 `iCourse页面 <https://student.iclicker.com/#/courses/>`_：
+
+.. figure:: ../../../images/iclicker2.png
+   :align: center
+
+点击页面右上角的“+”号，进入输入学校名称页面：
+
+.. figure:: ../../../images/iclicker3.png
+   :align: center
+
+点击上图的“University of British Columbia”，进入下一页
+
+.. figure:: ../../../images/iclicker5.png
+   :align: center
+
+在上图搜索栏输入课程代码，比如“BABS 550”，
 
 .. figure:: ../../../images/iclicker02.png
    :align: center
 
-Green是第一行，Blue是第二行。根据上课时间double check下，确认后点击对应的行，再点击“Add This Course”。看到课程名出现在“Active”名下，就表示添加成功了。同理，添加其他课程。
+选择对应的课程。比如Green是第一行，Blue是第二行。根据上课时间double check下，确认后点击对应的行。
+
+.. figure:: ../../../images/iclicker4.png
+   :align: center
+
+在上图中点击“Add This Course”。
 
 .. figure:: ../../../images/iclicker03.png
    :align: center
+
+看到课程名出现在“Active”名下，就表示添加成功了。同理，添加其他课程。
 
 使用iClicker
 ^^^^^^^^^^^^^^^^^^^^^^

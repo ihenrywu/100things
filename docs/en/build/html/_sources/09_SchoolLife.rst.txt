@@ -57,7 +57,60 @@ Sometimes, a certificate of enrollment is required to process some documents. Yo
 
 ----
 
+iClicker
+-------------------------
+iClicker is a voting device that professors also use for classroom attendance. The traditional iClicker was a physical device that looked like a remote control. Now you can just use the app or even the web version.
+
+
+Registering an Account
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Go to the  `iClicker official website <https://student.iclicker.com/>`_， and click on `Sign Up <https://student.iclicker.com/#/account/create>`_. In the search bar, enter "University of British Columbia," click "Next," and then fill in your school email and other information to register.
+
+.. figure:: ../../../images/iclicker01.png
+   :align: center
+
+Adding a Course
+^^^^^^^^^^^^^^^^^^^^^^
+After registering, log into your account and go to the  `iCourse Page <https://student.iclicker.com/#/courses/>`_：
+
+.. figure:: ../../../images/iclicker2.png
+   :align: center
+
+Click on the "+" sign in the upper-right corner to enter the school name page:
+
+.. figure:: ../../../images/iclicker3.png
+   :align: center
+
+Click on "University of British Columbia" in the image above and proceed to the next page:
+
+.. figure:: ../../../images/iclicker5.png
+   :align: center
+
+In the search bar in the image above, enter the course code, for example, "BABS 550."
+
+.. figure:: ../../../images/iclicker02.png
+   :align: center
+
+Choose the corresponding course. For example, Green Group is the first row, Blue is the second row. Double-check based on class times and confirm by clicking on the respective row.
+
+.. figure:: ../../../images/iclicker4.png
+   :align: center
+
+In the image above, click "Add This Course."
+
+.. figure:: ../../../images/iclicker03.png
+   :align: center
+
+If you see the course name appear under "Active," it means you've successfully added it. Similarly, you can add other courses.
+
+Using iClicker
+^^^^^^^^^^^^^^^^^^^^^^
+In class, the professor will post questions on iClicker. Log into your iClicker account on your phone or computer to see the questions. Then select your answer and click "Submit." Since your iClicker account is linked to your student email, you'll also complete the attendance check.
+
+----
+
 Sports
+--------------------
 
 There are many choices of sports on campus, such as swimming, ice skating, football, baskball, gym, etc, and the facilities are very good. As a part of the student benefit ("tuition fee" put in another way), we can use the facilities for free or at a low price.
 
