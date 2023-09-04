@@ -71,7 +71,7 @@ Go to the  `iClicker official website <https://student.iclicker.com/>`_， and c
 
 Adding a Course
 ^^^^^^^^^^^^^^^^^^^^^^
-After registering, log into your account and go to the  `Course Page <https://student.iclicker.com/#/courses/>`_：
+After registering, log into your account and go to the  `Course <https://student.iclicker.com/#/courses/>`_ page. 
 
 .. figure:: ../../../images/iclicker2.png
    :align: center
