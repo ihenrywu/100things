@@ -28,16 +28,12 @@ English Version: `100 Things I Wish I’d Known in My First Year in Vancouver: <
 .. note:: 
    - 本文链接: https://100things.readthedocs.io/en/latest/
    - 制作过程: `How to Build an Online Project Document with VSCode, Sphinx, GitHub, and Readthedocs <https://medium.com/@ihenrywu/how-to-build-an-online-project-document-with-vscode-sphinx-github-and-readthedocs-2d0f9c99961f>`_
-   
-
-..
-   PDF of this Handbook: `100things(PDF) <https://github.com/ihenrywu/100things>`
 
 
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Contents:
+   :caption: 目录:
 
    01_FirstThingFirst_CN
    02_Baggage_CN
@@ -53,6 +49,8 @@ English Version: `100 Things I Wish I’d Known in My First Year in Vancouver: <
    12_Benefits_CN
    98_ContributorsandVersions_CN
    99_ContactMe_CN
+
+
 
 
 

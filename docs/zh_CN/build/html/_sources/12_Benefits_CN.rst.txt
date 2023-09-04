@@ -8,10 +8,10 @@ Being a student at UBC comes with many benefits. Some of them  have already been
 Free Public Transportation: :ref:`UPASS`
 ----------------------------------------
 
-Free use of :ref:`Swimming`, and :ref:`Ice Skating`
+Free use of :ref:`游泳`, and :ref:`滑冰`
 ----------------------------------------------------
 
-Insurance covers some of the cost of :ref:`Vaccines`
+Insurance covers some of the cost of :ref:`疫苗`
 -----------------------------------------------------
 
 Free Amazon Primary membership for 6 months
