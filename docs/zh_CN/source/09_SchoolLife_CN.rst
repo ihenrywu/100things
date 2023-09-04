@@ -58,7 +58,7 @@ iClicker是投票器，也被教授们当作课堂签到工具。古早的iClick
 
 注册账号
 ^^^^^^^^^^^
-进入 `iClicker官网 <https://student.iclicker.com/>`_， 点击 `Sign Up <https://student.iclicker.com/#/account/create>`_，在搜索栏输入“University of British Columbia”，点“Next”，然后填入学校邮箱等信息进行注册。
+进入 `iClicker官网 <https://student.iclicker.com/>`_， 点击 `Sign Up <https://student.iclicker.com/#/account/create>`_，在搜索栏输入“University of British Columbia”，点“Next”，然后注册。
 
 .. figure:: ../../../images/iclicker01.png
    :align: center
@@ -99,7 +99,7 @@ iClicker是投票器，也被教授们当作课堂签到工具。古早的iClick
 
 使用iClicker
 ^^^^^^^^^^^^^^^^^^^^^^
-在课堂上，教授会在iClicker上发布题目，你在手机或电脑上登陆iClicker账户，就可以看到题目了。然后选择答案，点击“Submit”就行了。因为iClicker账号与学生邮箱绑定，所以也完成了签到。
+在课堂上，教授会在iClicker上发布题目，你在手机或电脑上登陆iClicker账户，就可以看到题目了。然后选择答案，点击“Submit”就行了。因为iClicker账号与学生信息绑定，所以也完成了签到。
 
 
 ----

@@ -64,7 +64,7 @@ iClicker is a voting device that professors also use for classroom attendance. T
 
 Registering an Account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Go to the  `iClicker official website <https://student.iclicker.com/>`_， and click on `Sign Up <https://student.iclicker.com/#/account/create>`_. In the search bar, enter "University of British Columbia," click "Next," and then fill in your school email and other information to register.
+Go to the  `iClicker official website <https://student.iclicker.com/>`_， and click on `Sign Up <https://student.iclicker.com/#/account/create>`_. In the search bar, enter "University of British Columbia," click "Next" to register.
 
 .. figure:: ../../../images/iclicker01.png
    :align: center
@@ -105,7 +105,7 @@ If you see the course name appear under "Active," it means you've successfully a
 
 Using iClicker
 ^^^^^^^^^^^^^^^^^^^^^^
-In class, the professor will post questions on iClicker. Log into your iClicker account on your phone or computer to see the questions. Then select your answer and click "Submit." Since your iClicker account is linked to your student email, you'll also complete the attendance check.
+In class, the professor will post questions on iClicker. Log into your iClicker account on your phone or computer to see the questions. Then select your answer and click "Submit." Since your iClicker account is linked to your student id, you'll also complete the attendance check.
 
 ----
 
