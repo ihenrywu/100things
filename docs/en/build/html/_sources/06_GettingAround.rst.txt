@@ -19,7 +19,7 @@ UPASS
 
 At UBC, there's a bus loop serving as the terminus for several buses. Attention! As part of the UBC student benefits, the UPASS allows you to ride the bus/SkyTrain for FREE during your study period. To get it, purchase a Compass card and link it to your student account. You can buy one at the UBC bookstore or Shoppers on campus.
 
-.. figure:: exhibit/compasscard.png
+.. figure:: ../../../images/compasscard.png
    :align: center
    :alt: Compass Card
 
@@ -50,7 +50,7 @@ Rent a car
 
 Vancouver is also very convenient to rent a car. The most common car rental company is EVO, which costs about 20 dollars an hour. By the way, you can get a 25 dollar coupon if you register with a refer code. It is easy to find a refer code by Google.
 
-.. figure:: exhibit/evo.png
+.. figure:: ../../../images/evo.png
    :align: center
    :alt: EVO car
 
@@ -69,7 +69,7 @@ Truth be told, I've never taken a taxi in Vancouver since I have Uber on my phon
 
 Below is a price map from Vancouver Airport to your destination. UBC is located in the top right corner of the map.
 
-.. figure:: exhibit/taix.jpeg
+.. figure:: ../../../images/taix.jpeg
    :align: center
    :alt: Taxi price map
 

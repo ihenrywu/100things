@@ -28,7 +28,7 @@ Meeting Room Reservation
 
 If you're just studying alone, just find a random library, but if you're working in a group and need to discuss with your team, you need to find a meeting room.
 
-.. figure:: exhibit/meetingroom.png
+.. figure:: ../../../images/meetingroom.png
    :align: center
 
    Sauder's Meeting Room
@@ -68,7 +68,7 @@ Swimming
 
 We can use the school's swimming pool for free. The UBC Aquatic Centre is a water center built to world-class standards. You only need to make a reservation one day in advance.
 
-.. figure:: exhibit/UBCAquaticCentre.png
+.. figure:: ../../../images/UBCAquaticCentre.png
    :align: center
 
    UBC Aquatic Centre [#]_
@@ -85,7 +85,7 @@ Ice skating
 
 As with the swimming pool, we can use the ice-skating rink for free. However, if you don't have your own helmet and skates, you must pay to rent them.
 
-.. figure:: exhibit/ice.jpg
+.. figure:: ../../../images/ice.jpg
    :align: center
 
    Doug Mitchell Thunderbird Sports Centre [#]_

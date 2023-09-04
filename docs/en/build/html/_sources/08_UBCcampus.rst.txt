@@ -13,7 +13,7 @@ Sauder Business School
 
 You could almost call it being located right in the center of the campus. The building is right next to the most famous UBC landmark, Martha Piper Plaza(the fountain). Just beside it stands UBC's oldest structure, which now houses the School of Chemistry.
 
-.. figure:: exhibit/sauder.jpg
+.. figure:: ../../../images/sauder.jpg
    :align: center
 
    Sauder Business School [#]_
@@ -28,14 +28,14 @@ UBC Bookstore
 
 Located on the east side of Sauder, about 1 minute away. There are a variety of UBC souvenirs inside, such as mugs, books, etc.
 
-.. figure:: exhibit/bookstore.jpg
+.. figure:: ../../../images/bookstore.jpg
    :align: center
 
    UBC Bookstore [#]_
 
 The most sought-after items sold at bookstore are the co-branded culture shirts between UBC and Lululemon.
 
-.. figure:: exhibit/lululemon.jpeg
+.. figure:: ../../../images/lululemon.jpeg
    :align: center
 
    UBC & Lululemon [#]_
@@ -47,7 +47,7 @@ Libraries
 
 There are two libraries near Sauder, both are good places for self-study. Some movies are shot here.
 
-.. figure:: exhibit/ikblc.jpg
+.. figure:: ../../../images/ikblc.jpg
    :align: center
 
    Irving K. Barber Learning Centre [#]_
@@ -62,7 +62,7 @@ Rose Garden
 
 It is UBC's most famous landmark, and is 3 minutes north of Sauder, under the Canadian flag. This is the place where you can see both the ocean and the snow-capped mountains. It's small, but exquisite.
 
-.. figure:: exhibit/rosegarden.png
+.. figure:: ../../../images/rosegarden.png
    :align: center
 
    Rose Garden [#]_
@@ -74,14 +74,14 @@ Wreck Beach
 
 Further north of the Rose Garden, a path leads to a beach. The scenery is beautiful, but Caution! This beach is a nude beach (the official describe is "clothing-optional"). You know, Canada is an extremely multicultural country, so please respect the choices of different people. 
 
-.. figure:: exhibit/wreck.png
+.. figure:: ../../../images/wreck.png
    :align: center
 
    Wreck Beach Notice [#]_
 
 Nevertheless, you can still enjoy the scenery with your clothse. It's not mandatory for everyone entering the beach to be nude. However, you might be a little embarrassed if you haven't prepared for what you are going to see. Don't ask me how I know. I wish someone told me this the first day I arrived at UBC.
 
-.. figure:: exhibit/wreckbeach.jpg
+.. figure:: ../../../images/wreckbeach.jpg
    :align: center
 
    Wreck Beach Intro [#]_

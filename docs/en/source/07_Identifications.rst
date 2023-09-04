@@ -11,20 +11,20 @@ Student card
 
 You don't have to wait until you arrive in Canada to apply for Student Card. 
 
-.. figure:: exhibit/studentcard.png
+.. figure:: ../../../images/studentcard.png
    :align: center
 
    UBC Student Card [#]_
 
 Submit your photo online, and in a few days, pick it up at select places on campus, like the UBC bookstore, when you arrive at UBC. 
 
-.. figure:: exhibit/pathtolibrary.jpeg
+.. figure:: ../../../images/pathtolibrary.jpeg
    :align: center
 
    Path to library (Photo Provider: Sam)
 
 
-.. figure:: exhibit/pickupstudentid.jpeg
+.. figure:: ../../../images/pickupstudentid.jpeg
    :align: center
 
    Pick up student ID at UBC Bookstore (Photo Provider: Sam)
@@ -67,7 +67,7 @@ BCID
 
 If you don't plan on getting a local driver's license, this is the only photo ID you can get from the local government while you're studying, and you can lock up your passport once you have your BCID. Basically, all the places in BC that require government-issued identification, you show your BCID, and you're good to go.
 
-.. figure:: exhibit/bcid.jpg
+.. figure:: ../../../images/bcid.jpg
    :align: center
 
    BCID [#]_

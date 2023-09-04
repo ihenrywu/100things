@@ -11,7 +11,7 @@ Study Permit
 
 The Study Permit is almost the most important document during your studies in Canada, it legitimizes your stay in this country. Don't confuse it with your student visa, which is affixed to your passport and lets you into Canada. The Study Permit is an A4-sized document you obtain when entering the country.
 
-.. figure:: exhibit/study_visa.jpg
+.. figure:: ../../../images/study_visa.jpg
    :width: 300px
    :align: center
 
@@ -19,7 +19,7 @@ The Study Permit is almost the most important document during your studies in Ca
 
 When you get your student visa, you are eligible for Study Permit. What you need to do is to pick up the A4 size paper when you arrive in Canada, for most people, the Vancouver airport. The document you need to prepare is "letter of introduction" you received from IRCC when they issued your visa.
 
-.. figure:: exhibit/study_permit.jpg
+.. figure:: ../../../images/study_permit.jpg
    :width: 600px
    :align: center
 
@@ -27,7 +27,7 @@ When you get your student visa, you are eligible for Study Permit. What you need
 
 The place you get the Study Permit is the Immigration office adjacent to the **No.23 baggage claim carousel** in the airport after you pass customs. There are several rows of chairs in that hall, so go in and sit down in order, and a staff member will come by to collect the documents. After that, wait for the staff to call your name at the counter. 
 
-.. figure:: exhibit/Immigrationoffice.png
+.. figure:: ../../../images/Immigrationoffice.png
    :width: 600px
    :align: center
 
@@ -59,7 +59,7 @@ MSP
 
 After settling, apply for MSP (Medical Services Plan) as soon as possible. MSP is an insurance policy which costs $75 per month and will prevent you from going bankrupt due to illness. You need to wait 3 months for this card to take effect. The school will have iMed plan for each student as a transition insurance during this 3 month period. So you must apply for MSP in time to avoid gaps.
 
-.. figure:: exhibit/msp.png
+.. figure:: ../../../images/msp.png
    :width: 300px
    :align: center
 
